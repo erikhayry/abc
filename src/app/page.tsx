@@ -36,7 +36,7 @@ export default function Home() {
           ABC of Cocktails
         </h1>
         <div className="flex flex-col xl:flex-row">
-          <div className="max-h-[200px] xl:max-h-none xl:w-1/5 order-2 overflow-auto xl:ml-5">
+          <div className="max-h-[200px] xl:max-h-none xl:w-1/5 xl:order-2 overflow-auto xl:ml-5">
             <Filter
               cocktails={filteredCocktails}
               onChange={handleFilterChange}
