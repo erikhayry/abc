@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Hide the checkbox box */
+input[type="checkbox"] {
+  /* @apply appearance-none w-0 h-0 m-0 p-0; */
+}
+
+
+
+/* Style the label when the checkbox is checked */
+input[type="checkbox"]:checked + label, label:has(input[type="checkbox"]:checked) {
+  @apply bg-gray-800 text-white;
+}
+
+/* Add hover and focus states for buttons */
+button:hover,
+button:focus {
+  @apply bg-gray-700 text-white;
+}
+
+/* Add hover and focus states for checkboxes */
+input[type="checkbox"]:hover + label,
+input[type="checkbox"]:focus + label,
+label:has(input[type="checkbox"]:hover),
+label:has(input[type="checkbox"]:focus) {
+  @apply bg-gray-600 text-white;
+}

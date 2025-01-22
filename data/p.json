@@ -1,0 +1,214 @@
+[
+  {
+    "name": "Pall Mall Cocktail",
+    "ingredients": [
+      "1 teaspoon White Mint",
+      "1 dash Orange Bitters",
+      "1/3 Italian Vermouth",
+      "1/3 French Vermouth",
+      "1/3 Gin"
+    ],
+    "instruction": "Shake well, and strain.",
+    "note": "Recipe from Guido, Cafe de Paris, Monte Carlo."
+  },
+  {
+    "name": "Palm Breeze",
+    "ingredients": [
+      "1/2 Dark Rum",
+      "Juice of 1/2 Lime",
+      "2/6 Yellow Chartreuse",
+      "1/6 Crème de Cacao",
+      "1 dash Grenadine"
+    ],
+    "instruction": "Shake well.",
+    "note": "Recipe by A.C. Davidge, Ritz Hotel, London."
+  },
+  {
+    "name": "Pansy Blossom",
+    "ingredients": [
+      "2 dashes Angostura Bitters",
+      "1 teaspoon Grenadine",
+      "1 glass Anis"
+    ]
+  },
+  {
+    "name": "Paradise Cocktail",
+    "ingredients": [
+      "1/3 Gin",
+      "1/3 Apricot Brandy",
+      "1/3 Orange Juice"
+    ]
+  },
+  {
+    "name": "Parisian Cocktail",
+    "ingredients": [
+      "1/3 Gin",
+      "1/3 French Vermouth",
+      "1/3 Cassis"
+    ]
+  },
+  {
+    "name": "Parity Cocktail",
+    "ingredients": [
+      "1/3 Rye Whisky",
+      "1/3 Applejack",
+      "1/6 Grenadine",
+      "1/6 Orange Juice"
+    ],
+    "note": "Recipe by Paul Farrell, Paris."
+  },
+  {
+    "name": "Pegu Club Cocktail",
+    "ingredients": [
+      "1 dash Angostura Bitters",
+      "1 dash Orange Bitters",
+      "1 teaspoon Lime Juice",
+      "1/6 Orange Curaçao",
+      "2/3 Gin"
+    ]
+  },
+  {
+    "name": "Perfect Cocktail",
+    "ingredients": [
+      "1/3 Gin",
+      "1/3 Italian Vermouth",
+      "1/3 French Vermouth",
+      "Orange Peel"
+    ],
+    "instruction": "Shake well, strain into a cocktail glass, and squeeze orange peel on top."
+  },
+  {
+    "name": "Perfect Lady Cocktail",
+    "ingredients": [
+      "1/2 Gin",
+      "1/4 Peach Brandy",
+      "1/4 Fresh Lemon Juice",
+      "Dash of White of Egg"
+    ],
+    "instruction": "Ice and shake well.",
+    "note": "First prize British Empire Cocktail Competition, 1936, by Sidney Cox, Grosvenor House, London."
+  },
+  {
+    "name": "Peto Cocktail",
+    "instruction": "Same as Bronx Cocktail with a dash of Maraschino."
+  },
+  {
+    "name": "Ping-Pong Cocktail",
+    "ingredients": [
+      "1 teaspoon Lemon Juice",
+      "1/2 Gin",
+      "1/2 Crème Yvette",
+      "Cherry"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass. Add cherry.",
+    "note": "Recipe from James G. Bennet, Broken Heart Café, 16 South Broadway, St Louis, 1903."
+  },
+  {
+    "name": "Pink Lady Cocktail",
+    "ingredients": [
+      "1 white of a Fresh Egg",
+      "2 teaspoons Grenadine",
+      "1/6 Brandy",
+      "1/3 Gin"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass."
+  },
+  {
+    "name": "Pink Pearl Cocktail",
+    "ingredients": [
+      "1/2 Gin",
+      "1/2 Bacardi",
+      "1 teaspoon Crème de Noyaux Pink"
+    ],
+    "instruction": "Shake well.",
+    "note": "Winning Cocktail Daily Mail London Contest, 1936."
+  },
+  {
+    "name": "Pink Rose Cocktail",
+    "ingredients": [
+      "1 white of a Fresh Egg",
+      "1 teaspoon Grenadine",
+      "1 teaspoon Lemon Juice",
+      "1 teaspoon Fresh Cream",
+      "2/3 Gin"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass."
+  },
+  {
+    "name": "Pisco Punch",
+    "ingredients": [
+      "1 lump of Ice",
+      "1 glass Brandy",
+      "1 teaspoon Pineapple Juice",
+      "1 teaspoon Lemon Juice",
+      "Plain Water",
+      "Chunk of Pineapple"
+    ],
+    "instruction": "Fill glass with plain water and serve with a chunk of pineapple.",
+    "note": "Recipe by Pisco John, San Francisco."
+  },
+  {
+    "name": "Planter's Cocktail",
+    "ingredients": [
+      "1/3 Rum",
+      "1/3 Orange Juice",
+      "1/3 Lemon Juice"
+    ]
+  },
+  {
+    "name": "Plaza Cocktail",
+    "ingredients": [
+      "1/3 Gin",
+      "1/3 Italian Vermouth",
+      "1/3 French Vermouth",
+      "Chunk of Fresh Pineapple"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass with a small chunk of pineapple."
+  },
+  {
+    "name": "Polly Special",
+    "ingredients": [
+      "1/3 Rye Whisky",
+      "1/3 Cointreau",
+      "1/3 Grapefruit Juice"
+    ],
+    "instruction": "Shake well, strain into a cocktail glass.",
+    "note": "Recipe by Wm. Pollack, Park Lane Hotel, London."
+  },
+  {
+    "name": "Polo Cocktail",
+    "ingredients": [
+      "1/6 Grapefruit Juice",
+      "1/6 Orange Juice",
+      "2/3 Gin"
+    ]
+  },
+  {
+    "name": "Pooh-Pooh Cocktail",
+    "ingredients": [
+      "1/2 Sherry",
+      "1/2 Gin"
+    ],
+    "note": "Recipe by George Peck, Pittsburgh."
+  },
+  {
+    "name": "Porto Flip",
+    "ingredients": [
+      "1 yolk of a Fresh Egg",
+      "1 teaspoon Sugar",
+      "1 glass Port Wine",
+      "Nutmeg"
+    ],
+    "instruction": "Shake well, strain into a small wineglass, and grate nutmeg on top."
+  },
+  {
+    "name": "Pussyfoot Cocktail",
+    "ingredients": [
+      "1 yolk of a Fresh Egg",
+      "1 teaspoon Grenadine",
+      "Juice of 1/2 Lemon",
+      "Juice of 1/2 Orange"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass."
+  }
+]

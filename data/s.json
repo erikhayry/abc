@@ -1,0 +1,425 @@
+[
+    {
+      "name": "Saragota Cocktail",
+      "ingredients": {
+        "Pineapple Syrup": "1 teaspoon",
+        "Orange Bitters": "2 dashes",
+        "Maraschino": "2 dashes",
+        "Brandy": "1 glass",
+        "Champagne": "to fill balance",
+        "Strawberries": "2"
+      },
+      "instructions": "Shake well and strain into wineglass with 2 strawberries, and fill balance with Champagne."
+    },
+    {
+      "name": "Sazerac",
+      "ingredients": {
+        "Sugar Cube": "1",
+        "Water": "a little",
+        "Angostura": "1 dash",
+        "Sazerac Bitters": "2 dashes",
+        "Pernod": "4 dashes",
+        "Rye": "1 1/4 oz"
+      },
+      "instructions": "In an old-fashioned glass, crush sugar cube in a little water, add bitters and Pernod, then stir with ice."
+    },
+    {
+      "name": "Scoff-law Cocktail",
+      "ingredients": {
+        "Orange Bitters": "1 dash",
+        "Canadian Whisky": "1/3",
+        "French Vermouth": "1/3",
+        "Lemon Juice": "1/6",
+        "Grenadine": "1/6"
+      },
+      "instructions": "Shake well and strain."
+    },
+    {
+      "name": "Scotch Highball",
+      "ingredients": {
+        "Ice": "1 lump",
+        "Lemon Peel": "squeezed",
+        "Whisky": "to serve",
+        "Soda": "to fill"
+      },
+      "instructions": "In a large tumbler, add ice and lemon peel. Serve whisky and fill with soda."
+    },
+    {
+      "name": "Scotch Mist",
+      "ingredients": {
+        "Shaved Ice": "fill glass",
+        "Scotch": "2 oz",
+        "Lemon Peel": "1 piece"
+      },
+      "instructions": "Fill glass with shaved ice, pour in scotch, add lemon peel."
+    },
+    {
+      "name": "Scotch-on-the-rocks",
+      "ingredients": {
+        "Cracked Ice": "fill glass",
+        "Scotch": "2 oz",
+        "Lemon Peel": "1 piece"
+      },
+      "instructions": "Fill glass with cracked ice, pour in scotch, add lemon peel."
+    },
+    {
+      "name": "\"75\" Cocktail",
+      "ingredients": {
+        "Grenadine": "1 teaspoon",
+        "Absinthe or Anis": "2 dashes",
+        "Calvados": "2/3",
+        "Gin": "1/3"
+      },
+      "instructions": "Shake well and strain into a cocktail glass."
+    },
+    {
+      "name": "\"S.G.\" Cocktail",
+      "ingredients": {
+        "Grenadine": "1 teaspoon",
+        "Rye Whisky": "1/3",
+        "Lemon Juice": "1/3",
+        "Orange Juice": "1/3"
+      },
+      "instructions": "Shake well and strain."
+    },
+    {
+      "name": "Shandy Gaff",
+      "ingredients": {
+        "Ginger Ale": "equal part",
+        "Bass or Pale Ale": "equal part"
+      },
+      "instructions": "Mix equal parts ginger ale and Bass or pale ale."
+    },
+    {
+      "name": "Sherry Cobbler",
+      "ingredients": {
+        "Ice": "1/3 tumbler",
+        "Brandy": "1/2 glass",
+        "Curaçao": "1/2 glass",
+        "Maraschino": "1/2 glass",
+        "Sherry": "1 glass",
+        "Port Wine": "float a little"
+      },
+      "instructions": "Add ingredients, stir well, decorate with fruits, and float port wine on top."
+    },
+    {
+      "name": "Sherry Cocktail",
+      "ingredients": {
+        "Peach Bitters": "1 dash",
+        "Orange Bitters": "1 dash",
+        "French Vermouth": "1 dash",
+        "Pale Dry Sherry": "1 glass"
+      },
+      "instructions": "Shake well and strain."
+    },
+    {
+      "name": "Sherry Flip",
+      "ingredients": {
+        "Egg Yolk": "1",
+        "Sugar": "1 teaspoon",
+        "Sherry": "1 glass",
+        "Nutmeg": "grate on top"
+      },
+      "instructions": "Shake well, strain into a wineglass, and grate nutmeg on top."
+    },
+    {
+      "name": "Short Life Cocktail",
+      "ingredients": {
+        "Vodka": "1/3",
+        "Calvados": "1/3",
+        "Pernod": "1/3"
+      },
+      "instructions": "Shake well and strain."
+    },
+    {
+      "name": "Side-Car Cocktail",
+      "ingredients": {
+        "Cointreau": "1/3",
+        "Brandy": "1/3",
+        "Lemon Juice": "1/3"
+      },
+      "instructions": "Shake well and strain."
+    },
+    {
+      "name": "Silver Cocktail No. 1",
+      "ingredients": {
+        "Egg White": "1",
+        "Orgeat Syrup": "1 teaspoon",
+        "Maraschino": "2 dashes",
+        "Orange Bitters": "1 dash",
+        "French Vermouth": "1/3",
+        "Gin": "1/3"
+      },
+      "instructions": "Shake well and strain."
+    },
+    {
+      "name": "Silver Cocktail No. 2",
+      "ingredients": {
+        "Gomme Syrup": "2 dashes",
+        "Orange Bitters": "2 dashes",
+        "Maraschino": "3 dashes",
+        "French Vermouth": "1/2",
+        "Gin": "1/2"
+      },
+      "instructions": "Stir well with a bar spoon, strain, and squeeze lemon peel on top."
+    },
+    {
+      "name": "Silver Streak Cocktail",
+      "ingredients": {
+        "Kümmel": "1/2",
+        "Gin": "1/2"
+      },
+      "instructions": "Shake well and strain into a cocktail glass."
+    },
+    {
+      "name": "Sir Charles Punch",
+      "ingredients": {
+        "Sugar": "1 teaspoon",
+        "Port Wine": "1 wineglass",
+        "Brandy": "1/2 glass",
+        "Curaçao": "1/2 glass"
+      },
+      "instructions": "Stir with ice, decorate with fruits, and serve with a straw."
+    },
+    {
+      "name": "Sir Walter Cocktail",
+      "ingredients": {
+        "Grenadine": "1 teaspoon",
+        "Curaçao": "1 teaspoon",
+        "Lemon Juice": "1 teaspoon",
+        "Brandy": "1/3",
+        "Rum": "1/3"
+      },
+      "instructions": "Shake well and strain."
+    },
+    {
+      "name": "Six Cylinder Cocktail",
+      "ingredients": {
+        "Cherry Brandy": "1/6",
+        "Gin": "1/6",
+        "Campari": "1/6",
+        "Dubonnet": "1/6",
+        "French Vermouth": "1/6",
+        "Italian Vermouth": "1/6"
+      },
+      "instructions": "Shake well and strain."
+    },
+
+      {
+        "name": "Skiers's Special",
+        "ingredients": {
+          "Boiling Red Wine": "1 cup",
+          "Sugar": "to taste",
+          "Lemon Slice with Cloves": "1",
+          "Orange Slice": "1",
+          "Cinnamon Stick": "1"
+        },
+        "instructions": "In a pewter mug, add boiling red wine, sugar, a lemon slice spiked with cloves, an orange slice, and a cinnamon stick. Serve hot. Specialty of Sun Valley Lodge, Sun Valley, USA."
+      },
+      {
+        "name": "Skoal Cocktail",
+        "ingredients": {
+          "Swedish Punch": "1/3",
+          "Anisette": "1/3",
+          "Lemon Juice": "1/3"
+        },
+        "instructions": "Shake well and strain."
+      },
+      {
+        "name": "Sloeberry Cocktail",
+        "ingredients": {
+          "Angostura Bitters": "1 dash",
+          "Orange Bitters": "1 dash",
+          "Sloe Gin": "1 glass"
+        },
+        "instructions": "Shake well and strain."
+      },
+      {
+        "name": "Snowball Cocktail",
+        "ingredients": {
+          "Crème de Violette": "1/6",
+          "White Crème de Menthe": "1/6",
+          "Anisette": "1/6",
+          "Fresh Cream": "1/6",
+          "Gin": "1/3"
+        },
+        "instructions": "Shake well and strain into a cocktail glass."
+      },
+      {
+        "name": "Soda Cocktail",
+        "ingredients": {
+          "Sugar": "1 teaspoon",
+          "Angostura": "4 dashes",
+          "Ice": "1 lump",
+          "Lemon Peel": "1 piece",
+          "Schweppe's Lemonade": "1 bottle"
+        },
+        "instructions": "Mix sugar and Angostura in a large tumbler. Add ice and squeezed lemon peel. Pour in Schweppe's Lemonade and stir."
+      },
+      {
+        "name": "Some Moth Cocktail",
+        "ingredients": {
+          "Gin": "2/3",
+          "French Vermouth": "1/3",
+          "Absinthe": "1 dash",
+          "Pickled Silver Onions": "2"
+        },
+        "instructions": "Shake well, strain into a cocktail glass, and add two pickled silver onions."
+      },
+      {
+        "name": "So So Cocktail",
+        "ingredients": {
+          "Grenadine": "1/6",
+          "Calvados": "1/6",
+          "Cinzano Vermouth": "1/3",
+          "Gin": "1/3"
+        },
+        "instructions": "Shake well and strain."
+      },
+      {
+        "name": "Soul Kiss",
+        "ingredients": {
+          "Orange Juice": "1/6",
+          "Dubonnet": "1/6",
+          "French Vermouth": "1/3",
+          "Rye Whisky": "1/3",
+          "Orange Slice": "1"
+        },
+        "instructions": "Shake well and strain into a cocktail glass."
+      },
+      {
+        "name": "Southern Beauty",
+        "ingredients": {
+          "Syrup Citron": "1 teaspoon",
+          "Lime Juice": "juice of 1/2 lime",
+          "Ponche-Soto": "1 glass",
+          "Brandy": "1 glass",
+          "Soda": "to fill balance"
+        },
+        "instructions": "Shake well and strain into a medium-sized wineglass. Fill balance with soda."
+      },
+      {
+        "name": "South Side",
+        "ingredients": {
+          "Lemon Juice": "juice of 1 lemon",
+          "Sugar": "1 teaspoon",
+          "Fresh Mint": "2-3 sprigs",
+          "Gin": "1 glass"
+        },
+        "instructions": "Shake well and strain into a medium-sized tumbler. Add syphon."
+      },
+      {
+        "name": "Soyer au Champagne",
+        "ingredients": {
+          "Vanilla Ice Cream": "1 measure",
+          "Maraschino": "2 dashes",
+          "Curaçao": "2 dashes",
+          "Brandy": "2 dashes",
+          "Champagne": "to fill balance",
+          "Pineapple Slice": "1",
+          "Orange Slice": "1",
+          "Lemon Slice": "1",
+          "Cherries": "2",
+          "Strawberries": "2"
+        },
+        "instructions": "In a large tumbler, add ice cream, Maraschino, Curaçao, and Brandy. Fill with Champagne, stir well, and add fruit slices and berries."
+      },
+      {
+        "name": "Spirit of St. Louis Cocktail",
+        "ingredients": {
+          "Gin": "1 glass",
+          "Egg White": "1",
+          "Grenadine": "1 teaspoon",
+          "Fleur d'Oranger": "2 drops"
+        },
+        "instructions": "Shake well and strain into a medium-sized wineglass."
+      },
+      {
+        "name": "Spitfire",
+        "ingredients": {
+          "Sherry": "1/3",
+          "Scotch": "1/3",
+          "Lime Juice": "1/3"
+        },
+        "instructions": "Shake with ice and strain."
+      },
+      {
+        "name": "Stanley Cocktail",
+        "ingredients": {
+          "Grenadine": "1/6",
+          "Lemon Juice": "1/6",
+          "Rum": "1/3",
+          "Gin": "1/3"
+        },
+        "instructions": "Shake well and strain."
+      },
+      {
+        "name": "Star Cocktail",
+        "ingredients": {
+          "Grapefruit Juice": "1 teaspoon",
+          "Vitali Vermouth": "1 dash",
+          "French Vermouth": "1 dash",
+          "Apple Jack or Calvados": "1/3",
+          "Gin": "1/3"
+        },
+        "instructions": "Shake well and strain."
+      },
+      {
+        "name": "Stinger",
+        "ingredients": {
+          "White Crème de Menthe": "1/2",
+          "Brandy": "1/2"
+        },
+        "instructions": "Shake well and strain into a cocktail glass."
+      },
+      {
+        "name": "St. Marc Cocktail",
+        "ingredients": {
+          "Groseille": "1/6",
+          "Gin": "1/3",
+          "Cherry Brandy": "1/6",
+          "French Vermouth": "1/3"
+        },
+        "instructions": "Shake well and strain."
+      },
+      {
+        "name": "Stone Fence",
+        "ingredients": {
+          "Rye Whisky": "1 glass",
+          "Ice": "1-2 lumps",
+          "Cider": "to fill balance"
+        },
+        "instructions": "Add whisky and ice to a large tumbler, then fill with cider."
+      },
+      {
+        "name": "Summer Delight",
+        "ingredients": {
+          "Vermouth": "1/2 gill",
+          "Pineapple Syrup": "1 liqueur glass",
+          "Soda Water": "to fill balance",
+          "Pineapple Piece": "1"
+        },
+        "instructions": "Shake with ice, strain into a glass, and fill with soda. Garnish with pineapple."
+      },
+      {
+        "name": "Sunshine Cocktail",
+        "ingredients": {
+          "Sugar or Gomme Syrup": "1 teaspoon",
+          "Lemon Juice": "juice of 1/4 lemon",
+          "Brandy": "1/3",
+          "Rum": "2/3"
+        },
+        "instructions": "Shake well and strain."
+      },
+      {
+        "name": "Swissess",
+        "ingredients": {
+          "Egg White": "1",
+          "Anisette Syrup": "1 teaspoon",
+          "Absinthe": "1 glass",
+          "Syphon": "dash"
+        },
+        "instructions": "Shake well, strain into a wineglass, and add a dash of syphon."
+      }
+    ]
+

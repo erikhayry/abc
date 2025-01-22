@@ -1,0 +1,125 @@
+[
+  {
+    "name": "Eagle's Dream Cocktail",
+    "ingredients": [
+      "1 teaspoon Sugar or Gomme Syrup",
+      "1 white of Egg",
+      "2/3 Gin",
+      "1/6 Creme Yvette",
+      "Juice of 1/4 Lemon"
+    ],
+    "instruction": "Shake well, and strain into a cocktail glass. Garnish with a cherry."
+  },
+  {
+    "name": "East India Cocktail",
+    "ingredients": [
+      "1 teaspoon Curaçao",
+      "1 teaspoon Pineapple Syrup",
+      "2 dashes Angostura Bitters",
+      "2/3 Brandy"
+    ],
+    "instruction": "Stir well with a spoon, strain into a cocktail glass, and serve with a cherry.",
+    "note": "Recipe by Harry Johnson, of New Orleans."
+  },
+  {
+    "name": "Egg Flip",
+    "ingredients": [
+      "1 yolk of Egg",
+      "2 dashes Curaçao",
+      "2/3 Brandy",
+      "1 teaspoon Gomme Syrup"
+    ],
+    "instruction": "Shake well and strain into a medium-sized wineglass. Grate nutmeg on top."
+  },
+  {
+    "name": "Egg Lemonade",
+    "ingredients": [
+      "1 Fresh Egg",
+      "2 teaspoons Sugar",
+      "Juice of 1 Lemon",
+      "Soda Water"
+    ],
+    "instruction": "Fill a shaker half full with chopped ice, add the ingredients, shake well, strain into a large tumbler, and fill with soda water."
+  },
+  {
+    "name": "Egg Nogg",
+    "ingredients": [
+      "1 Fresh Egg",
+      "1/2 teaspoon Sugar",
+      "1 glass Brandy",
+      "1 glass Rum",
+      "Fresh Milk"
+    ],
+    "instruction": "Fill the shaker half full with chopped ice, add ingredients, shake well, strain into a medium-sized tumbler, and grate nutmeg on top."
+  },
+  {
+    "name": "Eskie Cocktail",
+    "ingredients": [
+      "1 1/2 oz Bourbon",
+      "1 dash Benedictine",
+      "1 dash Angostura",
+      "1 dash Sweet Vermouth",
+      "Powdered Sugar",
+      "Cherry",
+      "Slice of Orange",
+      "Pineapple"
+    ],
+    "instruction": "Combine ingredients in an old-fashioned glass."
+  },
+  {
+    "name": "Egg Nogg (Hot Version)",
+    "ingredients": [
+      "1 teaspoon Sugar",
+      "1 Fresh Egg",
+      "1 glass Brandy",
+      "1 glass Rum",
+      "Boiling Milk"
+    ],
+    "instruction": "Beat the egg and sugar well. Add boiling milk while stirring, then add brandy and rum. Stir until blended, grate nutmeg on top, and serve."
+  },
+  {
+    "name": "Elk's Own Cocktail",
+    "ingredients": [
+      "White of 1 Fresh Egg",
+      "1/3 Rye Whisky",
+      "1/3 Port Wine",
+      "Juice of half a Lemon",
+      "1 teaspoon Sugar"
+    ],
+    "instruction": "Shake well, strain into a wineglass, and add a slice of pineapple."
+  },
+  {
+    "name": "Empire Punch",
+    "ingredients": [
+      "3 or 4 lumps of Ice",
+      "1 teaspoon Maraschino",
+      "1 teaspoon Curaçao",
+      "1 teaspoon Benedictine",
+      "1 teaspoon Brandy",
+      "1 wineglass Claret",
+      "Champagne"
+    ],
+    "instruction": "Fill a large tumbler with ice, add the ingredients, fill the balance with Champagne, stir well, and decorate with seasonal fruits.",
+    "note": "Recipe by Charlie Forrester, Casino—Dieppe, and Carlton—Cannes."
+  },
+  {
+    "name": "E. Nos Cocktail",
+    "ingredients": [
+      "1/3 French Vermouth",
+      "2/3 Gin",
+      "3 dashes Absinthe"
+    ],
+    "instruction": "Shake well and strain."
+  },
+  {
+    "name": "Eton Blazer",
+    "ingredients": [
+      "Juice of 1 Lemon",
+      "1 glass Gin",
+      "1/2 glass Groseille Syrup",
+      "1/2 glass Kirsch",
+      "Soda Water"
+    ],
+    "instruction": "Put 3 or 4 lumps of ice in a large tumbler, add ingredients, fill with soda water, stir well, and serve with straws."
+  }
+]

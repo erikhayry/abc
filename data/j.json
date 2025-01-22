@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Jack Rose Cocktail",
+    "ingredients": [
+      "1/3 Apple Jack or Calvados",
+      "1/6 Gin",
+      "1/12 French Vermouth",
+      "1/12 Vitali Vermouth",
+      "1/6 Orange Juice",
+      "1/6 Lime or Lemon Juice",
+      "Grenadine (enough to color)"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass."
+  },
+  {
+    "name": "Japanese Cocktail",
+    "ingredients": [
+      "1 teaspoon Orgeat Syrup",
+      "2 dashes Angostura Bitters",
+      "1 glass Brandy"
+    ],
+    "instruction": "Shake well, strain into a cocktail glass, and garnish with a Cherry."
+  },
+  {
+    "name": "Jersey Cocktail",
+    "ingredients": [
+      "3-4 lumps Ice",
+      "3-4 dashes Angostura Bitters",
+      "Cider (to fill)"
+    ],
+    "instruction": "Place ice and bitters in a large tumbler. Fill with Cider and stir slightly.",
+    "note": "Recipe from the Hoffman House, New York."
+  },
+  {
+    "name": "Jockey Club Cocktail",
+    "ingredients": [
+      "1 dash Orange Bitters",
+      "1 dash Angostura Bitters",
+      "2 dashes Crème de Noyau",
+      "1 teaspoon Lemon Juice",
+      "2/3 Gin",
+      "Lemon Peel"
+    ],
+    "instruction": "Shake well, strain into a cocktail glass, and squeeze Lemon Peel on top."
+  },
+  {
+    "name": "John Collins",
+    "ingredients": [
+      "3-4 lumps Ice",
+      "Juice of 1 Lemon",
+      "2 teaspoons Sugar",
+      "1 glass Hollands Gin",
+      "Soda Water (to fill)"
+    ],
+    "instruction": "Add ice, lemon juice, sugar, and gin to a large tumbler. Fill with Soda Water and stir well.",
+    "note": "London Gin is sometimes used in this drink."
+  },
+  {
+    "name": "J.O.S. Cocktail",
+    "ingredients": [
+      "1/3 Gin",
+      "1/3 French Vermouth",
+      "1/3 Italian Vermouth",
+      "1 dash Orange Bitters",
+      "1 dash Lemon Juice",
+      "1 dash Brandy",
+      "Lemon Peel"
+    ],
+    "instruction": "Shake well, strain into a cocktail glass, and squeeze Lemon Peel on top."
+  },
+  {
+    "name": "Journalist Cocktail",
+    "ingredients": [
+      "1 dash Angostura Bitters",
+      "2 dashes Curacao",
+      "2 dashes Lemon Juice",
+      "1/6 French Vermouth",
+      "1/6 Italian Vermouth",
+      "1/3 Gin"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass."
+  },
+  {
+    "name": "Jupiter Cocktail",
+    "ingredients": [
+      "1 teaspoon Parfait Amour",
+      "1 teaspoon Orange Juice",
+      "1/3 French Vermouth",
+      "2/3 Gin"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass."
+  }
+]

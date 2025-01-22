@@ -1,0 +1,49 @@
+[
+  {
+    "name": "I.B.F. Pick-me-up",
+    "ingredients": [
+      "1 lump Ice",
+      "3 dashes Fernet Branca",
+      "3 dashes Curacao",
+      "1 liqueur glass Brandy",
+      "Champagne (to fill)"
+    ],
+    "instruction": "Place ice, Fernet Branca, Curacao, and brandy in a wineglass. Fill with Champagne, stir, and squeeze Lemon Peel on top."
+  },
+  {
+    "name": "Inca Cocktail",
+    "ingredients": [
+      "2 dashes Orgeat Syrup",
+      "2 dashes Orange Bitters",
+      "1/3 Gin",
+      "1/3 Dry Sherry",
+      "1/3 French Vermouth",
+      "Small chunk of Pineapple"
+    ],
+    "instruction": "Strain into a cocktail glass and garnish with a small chunk of Pineapple.",
+    "note": "Invented by H. C. Harrison when in charge at the Embassy Bar, London."
+  },
+  {
+    "name": "Ink Street Cocktail",
+    "ingredients": [
+      "1/3 Rye Whisky",
+      "1/3 Orange Juice",
+      "1/3 Lemon Juice"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass.",
+    "note": "Named after Fleet Street, the center of the Newspaper World."
+  },
+  {
+    "name": "Irish Cocktail",
+    "ingredients": [
+      "2 dashes Absinthe",
+      "2 dashes Curacao",
+      "1 dash Maraschino",
+      "1 dash Angostura Bitters",
+      "2/3 Irish Whisky",
+      "1 medium-sized Olive",
+      "Lemon Peel"
+    ],
+    "instruction": "Shake well, strain into a cocktail glass, add an Olive, and squeeze Lemon Peel on top."
+  }
+]

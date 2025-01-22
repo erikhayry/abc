@@ -1,0 +1,139 @@
+[
+  {
+    "name": "Lamb's Club Cocktail",
+    "ingredients": [
+      "1/3 Italian Vermouth",
+      "1/3 French Vermouth",
+      "1/3 Gin",
+      "1 dash Benedictine"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass.",
+    "note": "Recipe by Bruce Reynolds, New York."
+  },
+  {
+    "name": "Lasky Cocktail",
+    "ingredients": [
+      "1/3 Swedish Punch",
+      "1/3 Gin",
+      "1/3 Welsh's Grape Juice"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass."
+  },
+  {
+    "name": "Last Round Cocktail",
+    "ingredients": [
+      "1/3 Gin",
+      "1/3 Noyau de Poissy",
+      "1/6 Cointreau",
+      "1/6 Brandy"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass.",
+    "note": "This cocktail won First Prize at the Ladies' Cocktail Contest at the Hotel Claridge, by Mdlle. Dondjaui."
+  },
+  {
+    "name": "Lawhill Cocktail",
+    "ingredients": [
+      "1 dash Angostura",
+      "1 dash Absinthe",
+      "1 dash Maraschino",
+      "1/3 French Vermouth",
+      "2/3 Rye Whisky"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass."
+  },
+  {
+    "name": "Leave-it-to-me Cocktail",
+    "ingredients": [
+      "1 teaspoon Raspberry Syrup",
+      "1 teaspoon Lemon Juice",
+      "1 dash Maraschino",
+      "2/3 Gin"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass."
+  },
+  {
+    "name": "Left Bank Cocktail",
+    "ingredients": [
+      "1/3 Swedish Punch",
+      "1/3 Cointreau",
+      "1/3 Peach Brandy"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass.",
+    "note": "Recipe by Sam Hellman, Great Neck, Long Island."
+  },
+  {
+    "name": "Legion Cocktail",
+    "ingredients": [
+      "1 dash Fernet Branca",
+      "1/6 Curacao",
+      "1/6 Brandy",
+      "2/3 Italian Vermouth"
+    ],
+    "instruction": "Shake well and strain. Squeeze orange peel on top.",
+    "note": "Recipe from Luigi, Elmano's Bar, Paris."
+  },
+  {
+    "name": "Lemon Squash",
+    "ingredients": [
+      "Juice of 1 Lemon",
+      "2 teaspoons Castor Sugar",
+      "Cracked Ice",
+      "Soda Water"
+    ],
+    "instruction": "In a large tumbler, mix lemon juice and sugar. Add cracked ice and fill with soda water. Stir well."
+  },
+  {
+    "name": "Leroi Cocktail",
+    "ingredients": [
+      "1 yolk of Fresh Egg",
+      "1/6 Curacao",
+      "1/6 Brandy",
+      "1/6 Gin",
+      "1 teaspoon Raspberry Syrup",
+      "1 teaspoon Cream",
+      "1/2 teaspoon Lemon Juice"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass."
+  },
+  {
+    "name": "\"L.G.\" Cocktail",
+    "ingredients": [
+      "1 glass Scotch Whisky",
+      "1 glass Beer (as chaser)"
+    ],
+    "instruction": "Serve whisky with beer as a chaser.",
+    "note": "Favourite drink in Scotland with Labour M.P.s."
+  },
+  {
+    "name": "Little Devil Cocktail",
+    "ingredients": [
+      "1/6 Lemon Juice",
+      "1/6 Cointreau",
+      "1/3 Bacardi Rum",
+      "1/3 Gin"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass.",
+    "note": "Recipe from Fitz, Giro's Bar, London."
+  },
+  {
+    "name": "Locomotive",
+    "ingredients": [
+      "1 teaspoon Honey",
+      "1 teaspoon Curacao",
+      "1 yolk of Fresh Egg",
+      "1 glass Port Wine"
+    ],
+    "instruction": "Shake well and strain into a medium-sized wine glass."
+  },
+  {
+    "name": "Lone Tree Cocktail",
+    "ingredients": [
+      "1/3 Gin",
+      "1/3 Italian Vermouth",
+      "1/3 French Vermouth",
+      "Orange Peel"
+    ],
+    "instruction": "Squeeze orange peel in the shaker, shake well, and strain into a cocktail glass with a cherry.",
+    "note": "Named after the island on which stands New York City."
+  }
+]

@@ -1,0 +1,333 @@
+[
+  {
+    "name": "Bacardi Cocktail",
+    "ingredients": [
+      "1 teaspoonful Grenadine",
+      "1/3 Gin",
+      "2/3 Bacardi Rum",
+      "Juice of half a Lime"
+    ],
+    "note": "Bacardi Rum comes from Cuba."
+  },
+  {
+    "name": "Ballyhoo Cocktail",
+    "ingredients": [
+      "1/3 Swedish Punch",
+      "1/3 Rye Whisky",
+      "1/6 Grenadine",
+      "1/6 Lemon Juice"
+    ],
+    "note": "Recipe by Victor Anthony, New York."
+  },
+  {
+    "name": "Bamboo Cocktail",
+    "ingredients": [
+      "1 dash Orange Bitters",
+      "1/2 wineglass Dry Sherry",
+      "1/2 wineglass French Vermouth"
+    ],
+    "note": "Recipe by Charlie Mahoney, Hoffman House, New York."
+  },
+  {
+    "name": "Bernice",
+    "ingredients": [
+      "1 oz Vodka",
+      "1/2 oz Galliano Liqueur",
+      "Juice of 1/2 Lime"
+    ],
+    "instruction": "Shake well. Strain.",
+    "note": "By C. S. Berner of the Tail O' the Cock restaurant, Los Angeles. 1st Prize 1950 West Coast competition."
+  },
+  {
+    "name": "Bijou Cocktail",
+    "ingredients": [
+      "1 dash Orange Bitters",
+      "1/3 Green Chartreuse",
+      "1/3 Italian Vermouth",
+      "1/3 Gin"
+    ],
+    "instruction": "Mix well with a spoon, strain into a cocktail glass, add a cherry or olive, squeeze a piece of lemon peel on top, and serve.",
+    "note": "Recipe from Harry Johnson of New Orleans."
+  },
+  {
+    "name": "Blackthorn Cocktail",
+    "ingredients": [
+      "2 dashes Angostura",
+      "3 dashes Absinthe",
+      "1/2 Irish Whisky",
+      "1/2 French Vermouth"
+    ],
+    "instruction": "Shake well, and strain into a cocktail glass."
+  },
+  {
+    "name": "Black Velvet",
+    "ingredients": [
+      "1/2 Stout",
+      "1/2 Champagne"
+    ]
+  },
+  {
+    "name": "Blanche Cocktail",
+    "ingredients": [
+      "1/3 Cointreau",
+      "1/3 Anisette",
+      "1/3 Curaçao (white)"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass.",
+    "note": "A popular after-dinner cocktail."
+  },
+  {
+    "name": "Block and Fall Cocktail",
+    "ingredients": [
+      "1/6 Absinthe",
+      "1/6 Calvados",
+      "1/3 Brandy",
+      "1/3 Cointreau"
+    ]
+  },
+  {
+    "name": "Bloodhound Cocktail",
+    "ingredients": [
+      "1/3 Gin",
+      "1/3 French Vermouth",
+      "1/3 Italian Vermouth",
+      "2 or 3 Strawberries"
+    ],
+    "instruction": "Shake well, and strain.",
+    "note": "This cocktail was introduced to London by the Duke of Manchester."
+  },
+  {
+    "name": "Blue Blazer",
+    "ingredients": [
+      "1 lump Sugar",
+      "Boiling Water",
+      "Scotch Whisky"
+    ],
+    "instruction": "Melt the sugar in boiling water in one mug. Ignite the Scotch in the other mug. Pour the flaming Scotch back and forth between the mugs about six or seven times, creating a blaze of flames.",
+    "note": "Rye or Bourbon may be used."
+  },
+  {
+    "name": "Blue Ribbon Cocktail",
+    "ingredients": [
+      "2/3 Gin",
+      "1/6 White Mint",
+      "1/6 Cointreau",
+      "Six drops Breton Cooking Blue Dye"
+    ],
+    "note": "Invented by the author, at Club, London, 1919."
+  },
+  {
+    "name": "Bosom Caresser",
+    "ingredients": [
+      "1 yolk of Egg",
+      "1 teaspoonful Grenadine",
+      "1/6 Bols Curaçao",
+      "1/6 Brandy",
+      "1/3 Madère"
+    ],
+    "instruction": "Shake well. Strain."
+  },
+  {
+    "name": "Brandy Cocktail",
+    "ingredients": [
+      "2 dashes Angostura",
+      "2 teaspoonfuls Gomme Syrup",
+      "1 glass Brandy"
+    ]
+  },
+  {
+    "name": "Brandy Crusta",
+    "ingredients": [
+      "1 teaspoonful Sugar or Gomme Syrup",
+      "3 dashes Rrioli Maraschino",
+      "3 dashes Angostura Bitters",
+      "Juice of 1/4 Lemon",
+      "1 glass Brandy"
+    ],
+    "instruction": "Moisten the rim of a wineglass with lemon, dip in sugar for a frosted effect. Fit a spiral lemon peel into the glass, shake the ingredients, and pour into the prepared glass."
+  },
+
+    {
+      "name": "Brandy Daisy",
+      "ingredients": [
+        "2/3 Brandy",
+        "1/6 Syrup of Grenadine",
+        "Juice of half a Lemon"
+      ],
+      "instruction": "Shake well, strain, pour into a double-sized cocktail glass, add a cherry and other fruit in season, and a squirt of Soda Water."
+    },
+    {
+      "name": "Brandy Fix",
+      "ingredients": [
+        "1 teaspoonful Sugar",
+        "1 teaspoonful Water",
+        "Juice of half a Lemon",
+        "1/2 liqueur Cherry Brandy",
+        "1 liqueur Brandy"
+      ],
+      "instruction": "Fill the glass with fine ice and stir slowly. Add a slice of lemon and serve with a straw."
+    },
+    {
+      "name": "Brandy Flip",
+      "ingredients": [
+        "1 yolk of a Fresh Egg",
+        "1 teaspoonful Sugar or Gomme Syrup",
+        "2/3 Brandy"
+      ],
+      "instruction": "Shake well, strain into a small wineglass, and grate a little Nutmeg on top."
+    },
+    {
+      "name": "Brandy Highball",
+      "ingredients": [
+        "Brandy",
+        "Soda Water",
+        "1 piece Lemon Peel",
+        "Ice"
+      ],
+      "instruction": "Add a piece of lemon peel squeezed in the glass with a chunk of ice. Top with soda water."
+    },
+    {
+      "name": "Brandy Julep",
+      "instruction": "Same as Mint Julep, but with Brandy."
+    },
+    {
+      "name": "Brandy Punch",
+      "ingredients": [
+        "1 teaspoonful Castor Sugar",
+        "1 teaspoonful Pineapple Syrup",
+        "Juice of 1/4 Lemon",
+        "Few drops Lime Juice",
+        "1 glass Brandy",
+        "Squirt of Syphon Water",
+        "Crushed Ice"
+      ],
+      "instruction": "In a large fancy wineglass, half fill with crushed ice. Stir well, decorate with fruits in season, and flavor with a few drops of Rum on top."
+    },
+    {
+      "name": "Brandy Shamparelle",
+      "ingredients": [
+        "1/4 Curaçao (rouge)",
+        "1/4 Yellow Chartreuse",
+        "1/4 Anisette",
+        "1/4 Brandy"
+      ]
+    },
+    {
+      "name": "Brandy Smash",
+      "ingredients": [
+        "1 teaspoonful Sugar",
+        "Water",
+        "Fresh Mint",
+        "1 glass Brandy"
+      ],
+      "instruction": "Dissolve sugar in water, add mint to extract flavor, then remove mint. Add brandy, shake well, pour into a wineglass half full of fine ice, and decorate with fruits in season."
+    },
+    {
+      "name": "Brandy Sour",
+      "ingredients": [
+        "1 teaspoonful Sugar or Gomme Syrup",
+        "Juice of half a Lemon",
+        "1 glass Brandy"
+      ],
+      "instruction": "Shake well, strain into a wineglass, squirt a little syphon water on top, and decorate with fruit."
+    },
+    {
+      "name": "Brazil Cocktail",
+      "ingredients": [
+        "3 dashes Angostura",
+        "3 dashes Absinthe",
+        "1/2 French Vermouth",
+        "1/2 Sherry"
+      ],
+      "instruction": "Stir well, strain into a cocktail glass, add a cherry, and squeeze a piece of lemon peel on top."
+    },
+    {
+      "name": "Broadway Melody Cocktail",
+      "ingredients": [
+        "1/3 Gin",
+        "1/3 French Vermouth",
+        "1/3 Grand Marnier"
+      ],
+      "note": "Recipe by Bill Breed, Cleveland."
+    },
+    {
+      "name": "Broken Spur Cocktail",
+      "ingredients": [
+        "1 yolk of a Fresh Egg",
+        "1/6 Italian Vermouth",
+        "2/3 White Port",
+        "1 teaspoonful Anisette"
+      ],
+      "note": "Introduced by the cavalry disbanded during the war."
+    },
+    {
+      "name": "Bromo Seltzer",
+      "ingredients": [
+        "1 tablespoonful Bromo Seltzer",
+        "Soda Water"
+      ],
+      "instruction": "In a large tumbler, dissolve Bromo Seltzer in soda water by pouring back and forth until dissolved. Drink while fizzing.",
+      "note": "A good pick-me-up for that next morning feeling."
+    },
+    {
+      "name": "Bronx Cocktail",
+      "ingredients": [
+        "1/3 Gin",
+        "1/3 French Vermouth",
+        "1/3 Italian Vermouth",
+        "Juice of 1/4 Orange"
+      ]
+    },
+    {
+      "name": "Bronx Terrace Cocktail",
+      "ingredients": [
+        "2/3 Gin",
+        "1/3 French Vermouth",
+        "Juice of half a Lime"
+      ]
+    },
+    {
+      "name": "Brooklyn Cocktail",
+      "ingredients": [
+        "1 dash Amer Picon",
+        "1 dash Maraschino",
+        "2/3 Rye Whisky",
+        "1/3 French Vermouth"
+      ]
+    },
+    {
+      "name": "Brut Cocktail",
+      "ingredients": [
+        "1 dash Angostura Bitters",
+        "1/3 Amer Picon",
+        "2/3 French Vermouth"
+      ]
+    },
+    {
+      "name": "Bull-dog",
+      "ingredients": [
+        "Juice of 1 Orange",
+        "1 glass Gin",
+        "Ginger Ale",
+        "2 or 3 lumps of Ice"
+      ],
+      "instruction": "Stir, and serve with a straw."
+    },
+    {
+      "name": "Bunny's Cocktail",
+      "ingredients": [
+        "1/3 Gin",
+        "1/3 Rye Whisky",
+        "1/3 Absinthe"
+      ]
+    },
+    {
+      "name": "Byrrh Cocktail",
+      "ingredients": [
+        "1/3 French Vermouth",
+        "1/3 Rye Whisky",
+        "1/3 Byrrh"
+      ]
+    }
+  ]
+

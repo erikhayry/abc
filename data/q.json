@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Quaker's Cocktail",
+    "ingredients": [
+      "1/3 Brandy",
+      "1/3 Rum",
+      "1/6 Lemon Juice",
+      "1/6 Raspberry Syrup"
+    ],
+    "instruction": "Shake well and strain into cocktail glass."
+  },
+  {
+    "name": "Quater-Deck Cocktail",
+    "ingredients": [
+      "1 teaspoon Lime Juice",
+      "2/3 Rum",
+      "1/3 Sherry"
+    ],
+    "instruction": "Shake well and strain into cocktail glass."
+  },
+  {
+    "name": "Quartier Latin Cocktail",
+    "ingredients": [
+      "1 teaspoon Cointreau",
+      "1/3 Amer. Picon",
+      "2/3 Dubonnet"
+    ],
+    "instruction": "Shake well and strain into cocktail glass.",
+    "note": "Recipe by Wilson's Dingo Bar, Rue Delambre, Paris."
+  },
+  {
+    "name": "Queen Mary Cocktail",
+    "ingredients": [
+      "1/6 Grand Marnier",
+      "1/6 Cointreau",
+      "1/6 Vermouth",
+      "1/6 Fruit Juice",
+      "1/3 Gin"
+    ],
+    "note": "This cocktail is in honour of the Queen Mary winning the Blue Riband in 1936."
+  },
+  {
+    "name": "Queen's Cocktail",
+    "ingredients": [
+      "1 chunk Pineapple",
+      "1 slice Orange",
+      "1/3 Bailor Italian Vermouth",
+      "1/3 French Vermouth",
+      "1/3 Gin"
+    ],
+    "instruction": "Add ice, shake well, and strain into cocktail glass."
+  },
+  {
+    "name": "Quelle Vie Cocktail",
+    "ingredients": [
+      "1/3 Kümmel",
+      "2/3 Brandy"
+    ],
+    "instruction": "Shake well and strain into cocktail glass."
+  },
+  {
+    "name": "Quill Cocktail",
+    "ingredients": [
+      "1/3 Campari",
+      "1/3 Rossi",
+      "1/3 Gin",
+      "1 dash Absinthe"
+    ],
+    "note": "Recipe by Frank C. Payne, New York."
+  }
+]

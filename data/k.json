@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Kangaroo Kicker",
+    "ingredients": [
+      "2/3 Vodka",
+      "1/3 Dry Vermouth",
+      "Lemon Peel"
+    ],
+    "instruction": "Stir well and strain into an old-fashioned glass with cracked ice. Add 1 jigger of Vodka, top up with Orange Juice, and garnish with a slice of Orange."
+  },
+  {
+    "name": "Knickerbocker Cocktail",
+    "ingredients": [
+      "1 teaspoon Raspberry Syrup",
+      "1 teaspoon Lemon Juice",
+      "1 teaspoon Orange Juice",
+      "1 chunk Pineapple",
+      "2/3 Rum",
+      "2 dashes Curacao"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass."
+  },
+  {
+    "name": "Knock-out Cocktail",
+    "ingredients": [
+      "1/3 Gin",
+      "1/3 French Vermouth",
+      "1/3 Absinthe",
+      "1 teaspoon White Mint"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass.",
+    "note": "Recipe by Gene Tunney, Heavyweight Champion of the World."
+  }
+]

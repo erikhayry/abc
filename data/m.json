@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Madam Pompadour",
+    "ingredients": [
+      "2 lumps of Sugar",
+      "1 dash Angostura",
+      "Cherries",
+      "Orange Slice",
+      "1/2 Peach",
+      "Ice",
+      "2 oz Lemon Juice",
+      "1 oz Orange Juice",
+      "2 oz Cognac",
+      "Champagne"
+    ],
+    "instruction": "In a tall glass, add sugar, Angostura, cherries, orange slice, peach, and ice. Add the mixture of lemon juice, orange juice, and cognac. Fill with Champagne.",
+    "note": "Specialty of Charlie's Bar, Minneapolis, U.S.A."
+  },
+  {
+    "name": "Magnolia",
+    "ingredients": [
+      "1 teaspoon Gomme Syrup",
+      "1 teaspoon Bols Curacao",
+      "1 yolk of Fresh Egg",
+      "1 glass Brandy",
+      "Champagne"
+    ],
+    "instruction": "Shake well, strain into a medium-sized wine glass, and fill balance with Champagne."
+  },
+  {
+    "name": "Man Jongg Cocktail",
+    "ingredients": [
+      "1/6 Cointreau",
+      "1/6 Bacardi Rum",
+      "2/3 Gin"
+    ],
+    "instruction": "Shake well, strain into a cocktail glass.",
+    "note": "Recipe by Willie Dale, 'Romanos' London."
+  },
+  {
+    "name": "Maiden's Blush Cocktail",
+    "ingredients": [
+      "2/3 Gin",
+      "1/3 Oxygenée Cusenier or Absinthe",
+      "1 teaspoon Grenadine"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass."
+  },
+  {
+    "name": "Maka",
+    "ingredients": [
+      "Ice",
+      "1/4 jigger Creme de Cassis",
+      "1/2 jigger Gin",
+      "1 part Sweet Vermouth",
+      "1 part Dry Vermouth",
+      "1/2 part Campari",
+      "Slice of Lemon",
+      "Soda Water"
+    ],
+    "instruction": "In a tall glass with ice, add Creme de Cassis, gin, sweet vermouth, dry vermouth, and Campari. Add a slice of lemon and top with soda water."
+  },
+  {
+    "name": "Mamay Taylor",
+    "ingredients": [
+      "1 slice Lemon",
+      "2 pieces Ice",
+      "1 glass Gin",
+      "1 bottle Schweppe's Ginger Ale"
+    ],
+    "instruction": "Put lemon slice and ice in a large tumbler. Add gin and fill with ginger ale. Stir slightly."
+  },
+  {
+    "name": "Mambo-Jambo",
+    "ingredients": [
+      "1/4 Bourbon",
+      "1/4 Sweet Vermouth",
+      "1/4 Peach Liqueur",
+      "1/8 Pimm's No. 1",
+      "1/8 Lime Juice"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass.",
+    "note": "By Mike Cordova, The Brown Derby, Los Angeles, U.S.A."
+  },
+  {
+    "name": "Manhattan Cocktail",
+    "ingredients": [
+      "1 dash Angostura Bitters",
+      "1/2 Rye Whisky",
+      "1/2 Vermouth"
+    ],
+    "instruction": "Stir well and strain into a cocktail glass. Use Italian Vermouth for a sweet cocktail and French Vermouth for a dry cocktail."
+  },
+  {
+    "name": "Marmon Cocktail",
+    "ingredients": [
+      "1/3 Kirsch",
+      "1/3 Cherry Brandy",
+      "1/3 French Vermouth"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass. Serve with a cherry."
+  },
+  {
+    "name": "Martini (Dry)",
+    "ingredients": [
+      "2/3 Gin",
+      "1/3 Dry Vermouth"
+    ],
+    "instruction": "Stir well and strain into a cocktail glass."
+  },
+  {
+    "name": "Martini (Medium)",
+    "ingredients": [
+      "1/3 Gin",
+      "1/3 Dry Vermouth",
+      "1/3 Sweet Vermouth"
+    ],
+    "instruction": "Stir well and strain into a cocktail glass."
+  },
+  {
+    "name": "Martini (Sweet)",
+    "ingredients": [
+      "1/3 Gin",
+      "2/3 Sweet Vermouth",
+      "1 dash Gomme Syrup"
+    ],
+    "instruction": "Shake well, strain into a glass with a cherry."
+  },
+  {
+    "name": "May Blossom Fizz",
+    "ingredients": [
+      "1 teaspoon Grenadine",
+      "Juice of 1/2 Lemon",
+      "1 glass Swedish Punch",
+      "Soda Water"
+    ],
+    "instruction": "Shake well and strain into a small tumbler. Fill with soda."
+  },
+  {
+    "name": "Mayfair Cocktail",
+    "ingredients": [
+      "1/2 Gin",
+      "1/2 Orange Juice",
+      "3-4 dashes Apricot Syrup",
+      "Clove Syrup"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass.",
+    "note": "Recipe by 'Robert' Embassy."
+  },
+  {
+    "name": "Mighty Fine",
+    "ingredients": [
+      "1/3 Rye",
+      "1/3 Amer Picon",
+      "1/3 Orange Juice",
+      "3 dashes Orange Bitters"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass."
+  },
+  {
+    "name": "Milk Punch",
+    "ingredients": [
+      "1 teaspoon Sugar",
+      "1 wineglass Brandy",
+      "1/2 wineglass Rum",
+      "Ice",
+      "Fresh Milk"
+    ],
+    "instruction": "Add sugar, brandy, and rum to a shaker with ice. Fill with milk, shake, and strain into a medium-sized tumbler. Grate nutmeg on top."
+  },
+  {
+    "name": "Milk Shake",
+    "ingredients": [
+      "1 teaspoon Sugar",
+      "1 Fresh Egg",
+      "Ice",
+      "Fresh Milk"
+    ],
+    "instruction": "Shake sugar, egg, and milk with ice. Strain into a tumbler and grate nutmeg on top."
+  },
+  {
+    "name": "Millionaire Cocktail",
+    "ingredients": [
+      "White of 1 Fresh Egg",
+      "2 dashes Curacao (Orange)",
+      "1 teaspoon Grenadine",
+      "2/3 Rye Whisky"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass.",
+    "note": "Recipe from Ritz Hotel, London."
+  },
+
+    {
+      "name": "Mimosa",
+      "ingredients": [
+        "1/6 Dry Vermouth",
+        "1/6 Orange Curacao",
+        "1/3 Gin"
+      ],
+      "instruction": "Stir and strain into a cocktail glass."
+    },
+    {
+      "name": "Mint Cocktail",
+      "ingredients": [
+        "1 dash Orange Bitters",
+        "1 dash Angostura Bitters",
+        "2 dashes Gomme Syrup",
+        "1 dash Absinthe",
+        "2/3 Bourbon Whisky",
+        "Fresh Mint Sprigs"
+      ],
+      "instruction": "Add all ingredients with mint sprigs. Shake well and strain into a cocktail glass."
+    },
+    {
+      "name": "Mint Julep",
+      "ingredients": [
+        "1 teaspoon Sugar",
+        "1/2 wineglass Water or Soda",
+        "3-4 sprigs Fresh Mint",
+        "2 glasses Bourbon Whisky",
+        "Shaved Ice",
+        "Slices of Orange, Lemon, Pineapple, and Cherries"
+      ],
+      "instruction": "Muddle mint with sugar and water. Remove mint, add bourbon and ice. Stir until frosted. Garnish with mint, fruits, and cherries."
+    },
+    {
+      "name": "Mississippi Mule Cocktail",
+      "ingredients": [
+        "2/3 Gin",
+        "1/6 Cassis",
+        "1/6 Lemon Juice"
+      ],
+      "instruction": "Shake well and strain into a cocktail glass."
+    },
+    {
+      "name": "Modern Cocktail",
+      "ingredients": [
+        "1 dash Orange Bitters",
+        "1 dash Absinthe",
+        "4 dashes Gomme Syrup",
+        "1/3 Rye Whisky",
+        "1/2 Sloe Gin"
+      ],
+      "instruction": "Shake well and strain into a cocktail glass with a cherry."
+    },
+    {
+      "name": "Moka Spitberg",
+      "ingredients": [
+        "1 teaspoon Castor Sugar",
+        "2 teaspoons Thick Fresh Cream",
+        "Cold Coffee",
+        "Shaved Ice"
+      ],
+      "instruction": "Add ingredients to a tumbler with shaved ice. Shake gently and serve with a straw."
+    },
+    {
+      "name": "Monkey's Gland Cocktail",
+      "ingredients": [
+        "1 dash Absinthe",
+        "1 teaspoon Grenadine",
+        "1/2 Orange Juice",
+        "1/2 Gin"
+      ],
+      "instruction": "Shake well and strain into a cocktail glass.",
+      "note": "Invented by the author, inspired by Voronoff's experiments in rejuvenation."
+    },
+    {
+      "name": "Montana Cocktail",
+      "ingredients": [
+        "2 dashes Anisette",
+        "3 dashes Orange Bitters",
+        "1/2 French Vermouth",
+        "1/2 Sloe Gin"
+      ],
+      "instruction": "Shake well, strain into a cocktail glass, and squeeze lemon peel on top."
+    },
+    {
+      "name": "Morning Cocktail",
+      "ingredients": [
+        "2 dashes Curacao",
+        "2 dashes Maraschino",
+        "2 dashes Orange Bitters",
+        "2 dashes Absinthe",
+        "1/2 Brandy",
+        "1/2 French Vermouth"
+      ],
+      "instruction": "Stir well and strain into a cocktail glass with a cherry. Twist lemon peel on top.",
+      "note": "Recipe by Harry Johnson, San Francisco."
+    },
+    {
+      "name": "Morning Glory Fizz",
+      "ingredients": [
+        "White of 1 Egg",
+        "1 teaspoon Sugar",
+        "Juice of 1 Lemon",
+        "1 teaspoon Absinthe",
+        "1 glass Rye Whisky",
+        "Soda Water"
+      ],
+      "instruction": "Shake well and strain into a tumbler. Fill with soda."
+    },
+    {
+      "name": "Moscow Mule",
+      "ingredients": [
+        "Ice",
+        "1/4 jigger Lime Juice",
+        "1 jigger Vodka",
+        "Ginger Beer",
+        "Cucumber Peel or Mint Sprig"
+      ],
+      "instruction": "Add ice, lime juice, and vodka in a silver mug. Fill with ginger beer and garnish with cucumber peel or mint."
+    },
+    {
+      "name": "Mountain Cocktail",
+      "ingredients": [
+        "White of 1 Fresh Egg",
+        "1/6 Lemon Syrup",
+        "1/6 French Vermouth",
+        "1/3 Rye Whisky",
+        "3 dashes Orange Bitters"
+      ],
+      "instruction": "Shake well and strain into a cocktail glass with a cherry.",
+      "note": "Recipe from Hoffman House, New York."
+    }
+  ]
+

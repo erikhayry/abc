@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Vermouth Cocktail",
+    "ingredients": [
+      "2 dashes Angostura",
+      "2 dashes Orange Bitters",
+      "2 dashes Gomme Syrup",
+      "1/2 glass French Vermouth",
+      "1/2 glass Italian Vermouth"
+    ],
+    "instructions": "Shake well and strain into cocktail glass, and squeeze Lemon Peel on top."
+  },
+  {
+    "name": "Vie en Rose Cocktail",
+    "ingredients": [
+      "1/6 Lemon Juice",
+      "1/6 Grenadine",
+      "1/3 Gin",
+      "1/3 Kirschwasser"
+    ],
+    "instructions": "Shake well and strain."
+  },
+  {
+    "name": "Virgin Cocktail",
+    "ingredients": [
+      "1/3 Forbidden Fruit Liqueur",
+      "1/3 White Crème de Menthe",
+      "1/3 Gin"
+    ],
+    "instructions": "Shake well and strain into cocktail glass."
+  },
+  {
+    "name": "Volstead Cocktail",
+    "ingredients": [
+      "1/3 Rye Whisky",
+      "1/3 Punch",
+      "1/6 Orange Juice",
+      "1/6 Syrup Framboise",
+      "1 dash Anisette"
+    ],
+    "instructions": "Shake well and strain."
+  },
+  {
+    "name": "Waldorf Cocktail",
+    "ingredients": [
+      "1 chunk Pineapple",
+      "1 teaspoonful Orange Juice",
+      "1/3 French Vermouth",
+      "1/3 Italian Vermouth"
+    ],
+    "instructions": "Shake well and strain into cocktail glass."
+  },
+  {
+    "name": "Wanda's Dream Cocktail",
+    "ingredients": [
+      "1/3 Grand Marnier",
+      "1/3 Gin",
+      "1/3 Italian Vermouth"
+    ],
+    "instructions": "Shake well and strain."
+  },
+  {
+    "name": "Warday's Cocktail",
+    "ingredients": [
+      "1 teaspoonful Yellow Chartreuse",
+      "1/3 Italian Vermouth",
+      "1/3 Gin",
+      "1/3 Calvados or Apple Jack"
+    ],
+    "instructions": "Shake well and strain."
+  },
+  {
+    "name": "Warden Cocktail",
+    "ingredients": [
+      "1 teaspoonful French Vermouth",
+      "1 glass Gin"
+    ],
+    "instructions": "Shake well and strain into cocktail glass."
+  },
+  {
+    "name": "Washington Cocktail",
+    "ingredients": [
+      "2 dashes Angostura",
+      "2 dashes Gomme Syrup",
+      "2/3 French Vermouth",
+      "1/3 Brandy"
+    ],
+    "instructions": "Shake well and strain."
+  },
+  {
+    "name": "Wax Cocktail",
+    "ingredients": [
+      "White of Fresh Egg",
+      "1 teaspoonful Gomme Syrup",
+      "1/3 Absinthe",
+      "1/3 Gin"
+    ],
+    "instructions": "Shake well and strain into cocktail glass."
+  },
+  {
+    "name": "Wedding Ball Cocktail",
+    "ingredients": [
+      "1/6 Orange Juice",
+      "1/6 Cherry Brandy",
+      "1/3 Gin",
+      "1/3 Dubonnet"
+    ],
+    "instructions": "Shake well and strain into cocktail glass."
+  },
+  {
+    "name": "Welcome Stranger Cocktail",
+    "ingredients": [
+      "1/6 Grenadine",
+      "1/6 Lemon Juice",
+      "1/6 Orange Juice",
+      "1/6 Gin",
+      "1/6 Swedish Punch",
+      "1/6 Brandy"
+    ],
+    "instructions": "Shake well and strain into cocktail glass."
+  },
+  {
+    "name": "Wembley Cocktail",
+    "ingredients": [
+      "1/3 Scotch Whisky",
+      "1/3 French Vermouth",
+      "1/3 Pineapple Juice"
+    ],
+    "instructions": "Shake well and strain into cocktail glass."
+  },
+  {
+    "name": "West Indian Cocktail",
+    "ingredients": [
+      "1 teaspoonful Cane Sugar",
+      "4 dashes Angostura",
+      "1 teaspoonful Lime or Lemon Juice",
+      "1 glass Gin",
+      "1 lump Ice"
+    ],
+    "instructions": "Stir and serve in the same glass."
+  },
+  {
+    "name": "Whisky Cocktail",
+    "ingredients": [
+      "1 teaspoonful Gomme Syrup",
+      "3 dashes Angostura",
+      "1 glass Canadian Club Whisky"
+    ],
+    "instructions": "Shake well and strain."
+  },
+  {
+    "name": "White Lady Cocktail",
+    "ingredients": [
+      "1/6 Brandy",
+      "1/6 Crème de Menthe",
+      "2/3 Cointreau"
+    ],
+    "instructions": "Shake well and strain."
+  },
+  {
+    "name": "White Rose Cocktail",
+    "ingredients": [
+      "White of Egg",
+      "1 glass Gin",
+      "1 glass Kirsch",
+      "1 teaspoonful Gomme Syrup"
+    ],
+    "instructions": "Shake well and strain."
+  },
+  {
+    "name": "Whoopee Cocktail",
+    "ingredients": [
+      "1 small glass Curaçao",
+      "1 small glass Cognac",
+      "Champagne"
+    ],
+    "instructions": "Fill balance with Champagne and squeeze Lemon Peel on top."
+  },
+  {
+    "name": "Winter Sunshine",
+    "ingredients": [
+      "2/3 Gin",
+      "1/3 Cointreau",
+      "3 dashes Scotch"
+    ],
+    "instructions": "Stir with ice and strain."
+  },
+  {
+    "name": "Woon Fizz",
+    "ingredients": [
+      "1 glass Gin",
+      "Juice of 1 Lemon",
+      "1 teaspoonful Castor Sugar",
+      "2 dashes Anis del Oso"
+    ],
+    "instructions": "Shake well, strain into medium-sized wineglass, and fill up with syphon."
+  }
+]

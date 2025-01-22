@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Xanthia Cocktail",
+    "ingredients": [
+      "1/3 Cherry Brandy",
+      "1/3 Yellow Chartreuse",
+      "1/3 Gin"
+    ],
+    "instructions": "Shake well and strain into cocktail glass."
+  },
+  {
+    "name": "Xeres Cocktail",
+    "ingredients": [
+      "1 dash Orange Bitters",
+      "1 dash Peach Bitters",
+      "1 dash Gomme Syrup",
+      "1 glass Dry Sherry"
+    ],
+    "instructions": "Stir and strain into cocktail glass."
+  },
+  {
+    "name": "Yale Blazer Cocktail",
+    "ingredients": [
+      "1 lump Sugar saturated with Brandy",
+      "1 lump Ice",
+      "Champagne"
+    ],
+    "instructions": "Fill the glass with Champagne and squeeze Lemon Peel on top."
+  },
+  {
+    "name": "Yale Cocktail",
+    "ingredients": [
+      "3 dashes Orange Bitters",
+      "1 dash Angostura Bitters",
+      "1 glass Gin"
+    ],
+    "instructions": "Shake well, strain into medium-sized wineglass, add a squirt of syphon, and squeeze Lemon Peel on top."
+  },
+  {
+    "name": "Yashmak Cocktail",
+    "ingredients": [
+      "1/3 Rye Whisky",
+      "1/3 French Vermouth",
+      "1/3 Absinthe"
+    ],
+    "instructions": "Stir well and strain into cocktail glass."
+  },
+  {
+    "name": "Yokohama Cocktail",
+    "ingredients": [
+      "1 dash Absinthe",
+      "1/6 Grenadine",
+      "1/6 Vodka",
+      "1/3 Orange Juice",
+      "1/3 Gin"
+    ],
+    "instructions": "Shake well and strain into cocktail glass."
+  },
+  {
+    "name": "Yo-Yo Cocktail",
+    "ingredients": [
+      "1/3 Cherry Brandy",
+      "1/3 Calvados",
+      "1/3 Pineapple Juice"
+    ],
+    "instructions": "Shake well and strain."
+  },
+  {
+    "name": "Za Za Cocktail",
+    "ingredients": [
+      "2 dashes Pepson Bitters",
+      "1/3 Gin",
+      "2/3 Italian Vermouth"
+    ],
+    "instructions": "Shake well, strain into cocktail glass, and garnish with a Cherry."
+  },
+  {
+    "name": "Zazarac Cocktail",
+    "ingredients": [
+      "1/6 Bacardi Rum",
+      "1/6 Anisette",
+      "1/6 Gomme Syrup",
+      "1/3 Rye Whisky",
+      "1 dash Angostura",
+      "1 dash Orange Bitters",
+      "3 dashes Absinthe"
+    ],
+    "instructions": "Shake well, strain into a small tumbler, and squeeze Lemon Peel on top."
+  },
+  {
+    "name": "Zenith Cocktail",
+    "ingredients": [
+      "1/3 Campari",
+      "1/3 Sherry",
+      "1/3 Gin"
+    ],
+    "instructions": "Stir well and strain."
+  },
+  {
+    "name": "Zero Hour Cocktail",
+    "ingredients": [
+      "1/3 Scotch Whisky",
+      "1/3 Rum",
+      "1/3 Grenadine"
+    ],
+    "instructions": "Shake well and strain."
+  },
+  {
+    "name": "Zouave Cocktail",
+    "ingredients": [
+      "1/3 Absinthe",
+      "1/3 Suze",
+      "1/3 French Vermouth"
+    ],
+    "instructions": "Stir well and strain."
+  },
+  {
+    "name": "Zosmak",
+    "ingredients": [
+      "1 jigger Dark Rum",
+      "1 jigger Pineapple Juice",
+      "Dash Lime Juice",
+      "Dash Grenadine"
+    ],
+    "instructions": "Shake well and strain."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Brandy Julep",
+    "instruction": "Same as Mint Julep, but with Brandy.",
+    "id": 36
+  },
+  {
+    "name": "Gin Daisy",
+    "note": "Same as Brandy Daisy.",
+    "id": 115
+  },
+  {
+    "name": "Gin Fix",
+    "note": "Same as Brandy Fix.",
+    "id": 116
+  },
+  {
+    "name": "Gin Flip",
+    "note": "Same as Brandy Flip.",
+    "id": 118
+  },
+  {
+    "name": "Gin Highball",
+    "instruction": "Gin and Soda, with Lemon Peel squeezed in glass and a lump of Ice.",
+    "id": 119
+  },
+  {
+    "name": "Gin Julep",
+    "note": "Prepared the same way as Mint Julep.",
+    "id": 121
+  },
+  {
+    "name": "Gin Smash",
+    "note": "Prepared the same way as a Brandy Smash.",
+    "id": 125
+  },
+  {
+    "name": "Golden Fizz",
+    "note": "Similar to Gin Fizz, but with the yolk of a fresh egg added.",
+    "id": 129
+  },
+  {
+    "name": "Orange Squash",
+    "instruction": "Same as Orangeade but use soda water instead of plain water.",
+    "id": 231
+  },
+  {
+    "name": "Peto Cocktail",
+    "instruction": "Same as Bronx Cocktail with a dash of Maraschino.",
+    "id": 244
+  },
+  {
+    "name": "Rum Crustas",
+    "instruction": "Same as Brandy Crustas.",
+    "id": 280
+  },
+  {
+    "name": "Rum Daisy",
+    "instruction": "Same as Brandy Daisy.",
+    "id": 281
+  },
+  {
+    "name": "Rum Flip",
+    "instruction": "Same as Brandy Flip.",
+    "id": 282
+  },
+  {
+    "name": "Rum Julep",
+    "instruction": "Same as Mint Julep.",
+    "id": 283
+  },
+  {
+    "name": "Rum Smash",
+    "instruction": "Same as Brandy Smash.",
+    "id": 284
+  },
+  {
+    "name": "Rum Sour",
+    "instruction": "Same as Brandy Sour.",
+    "id": 285
+  }
+]

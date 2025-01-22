@@ -1,0 +1,175 @@
+[
+  {
+    "name": "Hakam-Hiccup Cocktail",
+    "ingredients": [
+      "1 dash Orange Bitters",
+      "2 dashes Curacao",
+      "1/3 Gin",
+      "2/3 Italian Vermouth"
+    ],
+    "note": "Recipe from the Hakam-Hiccup Bar, Eastbourne."
+  },
+  {
+    "name": "Havowon Cocktail",
+    "ingredients": [
+      "1/3 Gin",
+      "1/6 Dubonnet",
+      "1/6 Loganberry Fruit Juice",
+      "1/3 French Vermouth"
+    ],
+    "note": "Recipe by \"Jock\" Melville, Bartender, 500 Club, Albemarle Street, London."
+  },
+  {
+    "name": "Happy Youth Cocktail",
+    "ingredients": [
+      "1 lump Ice",
+      "Juice of 1 Orange",
+      "1 small glass Cherry Brandy",
+      "Champagne (to fill)"
+    ],
+    "instruction": "Put ice, orange juice, and cherry brandy in a wineglass. Fill with Champagne.",
+    "note": "Recipe by Charlie Soumille, New York Bar, Paris."
+  },
+  {
+    "name": "Harry's Cocktail",
+    "ingredients": [
+      "2/3 Gin",
+      "1/3 Italian Vermouth",
+      "1 dash Absinthe",
+      "2 sprigs Fresh Mint"
+    ],
+    "instruction": "Shake well, strain into a cocktail glass, and serve with a stuffed Olive."
+  },
+  {
+    "name": "Harry's Pick-me-up",
+    "ingredients": [
+      "1 teaspoon Grenadine Syrup",
+      "1 glass Brandy",
+      "Juice of 1/2 Lemon",
+      "Champagne (to fill)"
+    ],
+    "instruction": "Shake well, strain into a medium-sized wineglass, and fill with Champagne."
+  },
+  {
+    "name": "Harvard Cocktail",
+    "ingredients": [
+      "1 dash Gomme Syrup",
+      "2 dashes Angostura Bitters",
+      "1/2 Brandy",
+      "1/2 Italian Vermouth"
+    ],
+    "instruction": "Shake well and strain."
+  },
+  {
+    "name": "Hasty Cocktail",
+    "ingredients": [
+      "1 dash Absinthe",
+      "1 teaspoon Grenadine",
+      "1/3 French Vermouth",
+      "2/3 Gin"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass."
+  },
+  {
+    "name": "Heering Cherisher",
+    "ingredients": [
+      "Equal parts Cherry Brandy",
+      "Equal parts French Vermouth",
+      "Dash Peach Bitters"
+    ],
+    "instruction": "Shake with cracked ice and serve in a cocktail glass with a cherry."
+  },
+  {
+    "name": "Heretic Cocktail",
+    "ingredients": [
+      "1/3 Cognac",
+      "1/3 Cointreau",
+      "1/6 Kümmel",
+      "1/2 Cherry Brandy"
+    ]
+  },
+  {
+    "name": "Hoffman House Cocktail",
+    "ingredients": [
+      "2/3 Gin",
+      "1/3 French Vermouth",
+      "1 dash Orange Bitters"
+    ],
+    "instruction": "Shake well, strain into a cocktail glass, and squeeze Orange Peel on top."
+  },
+  {
+    "name": "Homestead Cocktail",
+    "ingredients": [
+      "1/3 Italian Vermouth",
+      "2/3 Gin",
+      "1 slice Orange"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass."
+  },
+  {
+    "name": "Hooney Cocktail",
+    "ingredients": [
+      "1/3 Apricot Brandy",
+      "1/3 Maraschino",
+      "1/3 Lemon Juice"
+    ],
+    "note": "Recipe by N. H. Billy Fawcett, Minneapolis."
+  },
+  {
+    "name": "Hoola-Hoola Cocktail",
+    "ingredients": [
+      "1/3 Gin",
+      "1/3 Curacao",
+      "1/3 Orange Juice"
+    ]
+  },
+  {
+    "name": "Horse's Neck",
+    "ingredients": [
+      "Whole Lemon Peel (spiral)",
+      "Few lumps Ice",
+      "1 teaspoon Sugar",
+      "1 glass Brandy",
+      "Ginger Ale (to fill)"
+    ],
+    "instruction": "Put lemon peel, ice, and sugar in a large tumbler. Add brandy and fill with ginger ale."
+  },
+  {
+    "name": "Hot Egg Nogg",
+    "ingredients": [
+      "1 Fresh Egg",
+      "1 teaspoon Sugar",
+      "Boiling Milk",
+      "1 glass Brandy",
+      "1 glass Rum",
+      "Nutmeg (grated)"
+    ],
+    "instruction": "Beat egg and sugar. Add boiling milk while stirring. Add brandy and rum, stir, and grate nutmeg on top.",
+    "note": "Use a bar spoon to prevent the glass from cracking."
+  },
+  {
+    "name": "Hot Grog",
+    "ingredients": [
+      "1 teaspoon Sugar",
+      "Juice of 1/2 Lemon",
+      "1 glass Brandy",
+      "1 glass Rum",
+      "2 Cloves",
+      "1 small piece Cinnamon",
+      "Hot Water (to fill)",
+      "Slice of Lemon",
+      "Nutmeg (grated)"
+    ],
+    "instruction": "Dissolve sugar and lemon juice in hot water. Add brandy, rum, cloves, and cinnamon. Fill with hot water, add lemon slice, and grate nutmeg on top."
+  },
+  {
+    "name": "Hurricane",
+    "ingredients": [
+      "2/3 Gin",
+      "1/3 Sherry",
+      "Lemon Peel"
+    ],
+    "instruction": "Stir and strain. Garnish with Lemon Peel.",
+    "note": "Recipe by the author at Café de Paris, London, 1941."
+  }
+]

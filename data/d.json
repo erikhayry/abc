@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Dacquari Cocktail",
+    "ingredients": [
+      "2/3 Bacardi Rum",
+      "Juice of a Fresh Lime",
+      "1/6 Grenadine"
+    ],
+    "instruction": "Shake well, and strain into a cocktail glass.",
+    "note": "This was a very popular cocktail in America before Prohibition. Bacardi is made in Cuba."
+  },
+  {
+    "name": "Dempsey Cocktail",
+    "ingredients": [
+      "2/3 Calvados",
+      "1/3 Gin",
+      "2 dashes Grenadine",
+      "1 dash Absinthe"
+    ]
+  },
+  {
+    "name": "Derby Cocktail",
+    "ingredients": [
+      "2 dashes Peach Bitters",
+      "1 sprig Fresh Mint",
+      "1 glass Gin"
+    ],
+    "instruction": "Stir and strain into a cocktail glass. Serve with an olive.",
+    "note": "Recipe by E. G. De Gastreaux, Cincinnati, 1903."
+  },
+  {
+    "name": "Desert Healer",
+    "ingredients": [
+      "Juice of 1 Orange",
+      "1 glass Gin",
+      "1/2 glass Cherry Brandy",
+      "Ginger Beer"
+    ],
+    "instruction": "Shake well, strain into a large tumbler, and fill the balance with ginger beer.",
+    "note": "Recipe by Hon. H. Grayson."
+  },
+  {
+    "name": "Diabola Cocktail",
+    "ingredients": [
+      "2/3 Dubonnet",
+      "1/3 Gin",
+      "2 dashes Orgeat Syrup"
+    ],
+    "note": "Recipe by F. Newman, Paris."
+  },
+  {
+    "name": "Diki-Diki Cocktail",
+    "ingredients": [
+      "2/3 Calvados",
+      "1/6 Caloric Punch (Swedish Punch)",
+      "1/6 Grapefruit Juice"
+    ]
+  },
+  {
+    "name": "Doctor Cocktail",
+    "ingredients": [
+      "1/3 Swedish Punch",
+      "1/3 Orange Juice",
+      "1/3 Lemon Juice"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass."
+  },
+  {
+    "name": "Dome Cocktail",
+    "ingredients": [
+      "1 teaspoon Orgeat Syrup",
+      "1/3 Dubonnet",
+      "1/3 Gin",
+      "1/6 Anisette"
+    ],
+    "note": "Recipe by Carey, bartender, Dome Cafe, Montparnasse, Paris."
+  },
+  {
+    "name": "Douglas Cocktail",
+    "ingredients": [
+      "2/3 Gin",
+      "1/3 French Vermouth"
+    ],
+    "instruction": "Shake well, strain, and squeeze an orange peel on top."
+  },
+  {
+    "name": "Dream Cocktail",
+    "ingredients": [
+      "1/3 Curaçao",
+      "2/3 Brandy",
+      "1 dash Absinthe"
+    ]
+  },
+  {
+    "name": "Du Barry Cocktail",
+    "ingredients": [
+      "1 dash Boonekamp Bitters",
+      "2 dashes Absinthe",
+      "2 dashes Gomme Syrup",
+      "2/3 Gin",
+      "1/3 French Vermouth"
+    ],
+    "instruction": "Shake well. Strain into a cocktail glass with a quarter slice of orange."
+  },
+  {
+    "name": "Dubonnet Cocktail",
+    "ingredients": [
+      "2/3 Dubonnet",
+      "1/3 Gin"
+    ]
+  },
+  {
+    "name": "Dubonnet Fizz",
+    "ingredients": [
+      "Juice of half an Orange",
+      "Juice of half a Lemon",
+      "1 teaspoon Cherry Brandy",
+      "1 glass Dubonnet"
+    ],
+    "instruction": "Shake well, strain into a wineglass, and top with a squirt of syphon."
+  },
+  {
+    "name": "Dunlop Cocktail",
+    "ingredients": [
+      "1/3 Sherry",
+      "2/3 Rum",
+      "1 dash Angostura Bitters"
+    ]
+  }
+]

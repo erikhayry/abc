@@ -1,0 +1,90 @@
+[
+  {
+    "name": "New Deal Cocktail",
+    "ingredients": [
+      "1/3 French Vermouth"
+    ],
+    "instruction": "Stir and serve in a cocktail glass.",
+    "note": "Recipe by Pete Petiot, Bartender, St. Regis Hotel, New York, U.S.A."
+  },
+  {
+    "name": "New Orleans Gin Fizz",
+    "ingredients": [
+      "White of 1 Egg",
+      "1 teaspoon Sugar",
+      "2 dashes Fleur d'Oranger",
+      "1 glass Gin",
+      "Juice of 1 Lemon",
+      "1/2 wineglass Fresh Cream",
+      "Cracked Ice"
+    ],
+    "instruction": "Shake well for two minutes. Strain into a tumbler and fill with soda.",
+    "note": "A popular drink in the Southern States of America."
+  },
+  {
+    "name": "Night-Cap",
+    "ingredients": [
+      "Yolk of 1 Fresh Egg",
+      "1/3 Anisette",
+      "1/3 Orange Curacao",
+      "1/3 Brandy"
+    ],
+    "instruction": "Shake well and strain into a small wineglass.",
+    "note": "Recipe by F. Newman, Paris."
+  },
+  {
+    "name": "Nineteenth Hole Cocktail",
+    "ingredients": [
+      "1/3 Rye Whisky",
+      "1/3 Vitali Vermouth",
+      "1/3 Sherry"
+    ],
+    "instruction": "Stir well and serve in a cocktail glass.",
+    "note": "Recipe by Charles V. Wheeler, Washington, D.C."
+  },
+  {
+    "name": "Nineteen-Twenty Cocktail",
+    "ingredients": [
+      "1 dash Absinthe",
+      "1/6 Kirschwasser",
+      "1/6 Crystal Gin",
+      "2/3 French Vermouth",
+      "1 teaspoon Groseille Syrup"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass."
+  },
+  {
+    "name": "Nineteen-Twenty Pick-me-up",
+    "ingredients": [
+      "1/3 Gin",
+      "2/3 Pernod Absinthe",
+      "1 dash Angostura",
+      "1 dash Orange Bitters",
+      "1 dash Gomme Syrup",
+      "Soda"
+    ],
+    "instruction": "Shake well, strain into a wineglass, and fill with soda."
+  },
+  {
+    "name": "Normandie Cocktail",
+    "ingredients": [
+      "2/3 Calvados",
+      "1/6 Lemon Juice",
+      "1/6 Grenadine",
+      "1 dash Pernod"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass.",
+    "note": "Recipe by Charlie Soumille, New York Bar, Paris."
+  },
+  {
+    "name": "N.R.A. Cooler",
+    "ingredients": [
+      "White of 1 Egg",
+      "1 glass Pernod",
+      "1 teaspoon Grenadine",
+      "Ginger Ale"
+    ],
+    "instruction": "Shake well, strain into a large tumbler, and fill with ginger ale.",
+    "note": "Recipe by 'Mac', New York Bar, Paris."
+  }
+]

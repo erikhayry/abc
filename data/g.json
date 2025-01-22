@@ -1,0 +1,250 @@
+[
+  {
+    "name": "Gangadine Cocktail",
+    "ingredients": [
+      "1 teaspoon Framboise Syrup",
+      "1/3 Oxygenée"
+    ],
+    "note": "Oxygenée is a white Absinthe made in Belgium."
+  },
+  {
+    "name": "Gibson",
+    "ingredients": [
+      "9 parts Gin",
+      "1/2 part Dry Vermouth"
+    ],
+    "instruction": "Stir, strain into a cocktail glass, and garnish with a pearl onion on a stick."
+  },
+  {
+    "name": "Gazette Cocktail",
+    "ingredients": [
+      "1 teaspoon Gomme Syrup",
+      "1 teaspoon Lemon Juice",
+      "2 dashes Orange Bitters",
+      "1/3 Brandy",
+      "1/3 Italian Vermouth"
+    ],
+    "instruction": "Serve in a wineglass with a whole slice of Lemon.",
+    "note": "Recipe by Wm. Reno, Freerstone Café, Toledo, Ohio."
+  },
+  {
+    "name": "Gilroy Cocktail",
+    "ingredients": [
+      "1/3 Gin",
+      "1/3 Noilly Prat Vermouth",
+      "1/6 Cherry Brandy",
+      "1/6 Kirsch"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass."
+  },
+  {
+    "name": "Gimlet",
+    "ingredients": [
+      "1/2 Coates' Plymouth Gin",
+      "1/2 Rose's Lime Juice Cordial"
+    ],
+    "instruction": "Stir well. Can be iced if desired."
+  },
+  {
+    "name": "Gin and CINZANO",
+    "ingredients": [
+      "2/3 Gin",
+      "1/3 French Vermouth",
+      "Lemon Peel"
+    ]
+  },
+  {
+    "name": "Gin Cocktail",
+    "ingredients": [
+      "1 teaspoon Gomme Syrup",
+      "2 dashes Orange Bitters",
+      "2 dashes Angostura Bitters",
+      "Remainder Gin"
+    ],
+    "instruction": "Shake well and serve with a Cherry."
+  },
+  {
+    "name": "Gin Daisy",
+    "note": "Same as Brandy Daisy."
+  },
+  {
+    "name": "Gin Fix",
+    "note": "Same as Brandy Fix."
+  },
+  {
+    "name": "Gin Fizz",
+    "ingredients": [
+      "1 teaspoon Sugar or Gomme Syrup",
+      "Juice of 1 Lemon",
+      "1 glass Gin"
+    ],
+    "instruction": "Shake well, strain into medium-sized tumbler, and fill with Soda Water."
+  },
+  {
+    "name": "Gin Flip",
+    "note": "Same as Brandy Flip."
+  },
+  {
+    "name": "Gin Highball",
+    "instruction": "Gin and Soda, with Lemon Peel squeezed in glass and a lump of Ice."
+  },
+  {
+    "name": "Gin and It",
+    "ingredients": [
+      "1/4 London Dry Gin",
+      "3/4 Italian Vermouth",
+      "Squeeze of Lemon Peel"
+    ]
+  },
+  {
+    "name": "Gin Julep",
+    "note": "Prepared the same way as Mint Julep."
+  },
+  {
+    "name": "Gin Rickey",
+    "ingredients": [
+      "1 lump Ice",
+      "Juice of 1 Fresh Lime",
+      "1 glass Gin",
+      "Seltzer or Soda Water"
+    ],
+    "instruction": "Squeeze lime juice into a glass with ice, add gin, and fill with seltzer or soda water."
+  },
+  {
+    "name": "Golden Glow",
+    "ingredients": [
+      "1/2 jigger Lemon Juice",
+      "1 jigger Orange Juice",
+      "1 teaspoon Sugar",
+      "Dash Jamaica Rum",
+      "1 jigger Bourbon",
+      "Grenadine (for bottom of glass)"
+    ],
+    "instruction": "Shake with ice, strain into a glass with a blob of grenadine at the bottom.",
+    "note": "Specialty of New Hotel Jefferson, St-Louis, U.S.A."
+  },
+  {
+    "name": "Gin Sling",
+    "ingredients": [
+      "Juice of 1 Lemon",
+      "1 glass Gin",
+      "1 teaspoon Grenadine",
+      "1 wineglass Plain Water"
+    ],
+    "instruction": "Shake well and strain into a medium-sized tumbler."
+  },
+  {
+    "name": "Gin Smash",
+    "note": "Prepared the same way as a Brandy Smash."
+  },
+  {
+    "name": "Ginger Beauty Cocktail",
+    "ingredients": [
+      "1/2 Grand Marnier",
+      "1/2 Cognac",
+      "1 teaspoon Campari"
+    ],
+    "note": "Recipe by Robert Muet, New York Bar, Paris."
+  },
+  {
+    "name": "Gloom Chaser Cocktail",
+    "ingredients": [
+      "1/6 Curaçao",
+      "1/6 Grand Marnier",
+      "1/6 Grenadine",
+      "1/6 Lemon Juice",
+      "1/3 Bacardi Rum"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass.",
+    "note": "Recipe by \"Charlie,\" Ermitage, Champs Elysées, Paris."
+  },
+  {
+    "name": "Gloom Raiser",
+    "ingredients": [
+      "2 dashes Absinthe",
+      "2 dashes Grenadine",
+      "2/3 Gin",
+      "1/3 Cusenier French Vermouth",
+      "Lemon Peel"
+    ],
+    "note": "Recipe by \"Robert\" of the Embassy."
+  },
+  {
+    "name": "Golden Fizz",
+    "note": "Similar to Gin Fizz, but with the yolk of a fresh egg added."
+  },
+  {
+    "name": "Golden Slipper",
+    "ingredients": [
+      "1/2 glass Yellow Chartreuse",
+      "1 Fresh Egg Yolk",
+      "1/2 glass Eau de Vie de Dantzig"
+    ],
+    "note": "Recipe by Harry Johnson, New Orleans."
+  },
+  {
+    "name": "\"Goodwill\" Cocktail",
+    "ingredients": [
+      "1/2 Rye Whisky",
+      "1/4 Crème de Banane",
+      "1/5 Drambuie",
+      "1/20 Lemon Juice"
+    ],
+    "note": "Recipe by W. H. Taylor, Cafe Royal, London. Second Prize, British Empire Cocktail Competition, 1936."
+  },
+  {
+    "name": "Gradient Cocktail",
+    "ingredients": [
+      "1/3 Cognac",
+      "1/3 Apple Jack",
+      "1/3 Anisette"
+    ],
+    "note": "Recipe by Otto, Henry's Hotel Bar, Paris."
+  },
+  {
+    "name": "Gray Bar Cocktail",
+    "ingredients": [
+      "1/3 Gin",
+      "1/3 Sherry",
+      "1/3 Dubonnet"
+    ],
+    "note": "Recipe by S. Kudner, New York."
+  },
+  {
+    "name": "Greebriard Cocktail",
+    "ingredients": [
+      "1 dash Peach Bitters",
+      "1/3 French Vermouth",
+      "2/3 Sherry",
+      "1 sprig Fresh Mint"
+    ],
+    "instruction": "Shake well and strain."
+  },
+  {
+    "name": "Green Room Cocktail",
+    "ingredients": [
+      "2/3 French Vermouth",
+      "1/3 Brandy",
+      "2 dashes Curaçao"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass."
+  },
+  {
+    "name": "Grenadier Cocktail",
+    "ingredients": [
+      "1 dash Jamaica Ginger",
+      "1/3 Ginger Brandy",
+      "2/3 Brandy",
+      "1 teaspoon Gomme Syrup"
+    ]
+  },
+  {
+    "name": "Guards' Cocktail",
+    "ingredients": [
+      "2 dashes Curaçao",
+      "2/3 Italian Vermouth",
+      "1/3 Gin"
+    ],
+    "instruction": "Shake well and strain into a cocktail glass."
+  }
+]

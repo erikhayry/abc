@@ -1,0 +1,148 @@
+[
+    {
+      "name": "Abyssinia Cocktail",
+      "ingredients": {
+        "Crème de Cacao": "1/2",
+        "Cognac": "1/3",
+        "Grape Fruit Juice": "1/3"
+      }
+    },
+    {
+      "name": "Absinthe Cocktail",
+      "ingredients": {
+        "Absinthe": "2/3",
+        "Gin": "1/6",
+        "Syrup of Anisette or Syrup of Gomme": "1/6",
+        "Orange Dash": 1,
+        "Angostura Dash": 1
+      },
+      "instructions": "Shake until frozen, and strain into cocktail glass."
+    },
+    {
+      "name": "Absinthe Frappé",
+      "ingredients": {
+        "Absinthe": "2/3",
+        "Syrup of Anisette": "1/6",
+        "Water": "double quantity"
+      },
+      "instructions": "Shake until thoroughly chilled and strain into a small tumbler."
+    },
+    {
+      "name": "Admiral",
+      "ingredients": {
+        "Bourbon": "1/3",
+        "Dry Vermouth": "2/3",
+        "Lemon Juice": "juice of 1/2 lemon"
+      },
+      "instructions": "Shake well. Pour and add lemon peel."
+    },
+    {
+      "name": "Adonis Cocktail",
+      "ingredients": {
+        "Orange Bitters": "1 dash",
+        "Sherry": "1/3",
+        "Italian Vermouth": "2/3"
+      }
+    },
+    {
+      "name": "Alaska Cocktail",
+      "ingredients": {
+        "Yellow Chartreuse": "1/3",
+        "Gin": "2/3"
+      }
+    },
+    {
+      "name": "Alexander Cocktail",
+      "ingredients": {
+        "Crème de Cacao": "1/3",
+        "Brandy": "1/3",
+        "Fresh Cream": "1/3"
+      },
+      "instructions": "Shake well and strain into cocktail glass."
+    },
+    {
+      "name": "Alfonso Cocktail",
+      "ingredients": {
+        "Sugar Lump": 1,
+        "Secrestat Bitters": "2 dashes",
+        "Dubonnet": "1/4 glass",
+        "Champagne": "fill remainder"
+      },
+      "instructions": "Add ice, squeeze lemon peel on top, stir slightly."
+    },
+    {
+      "name": "Americano",
+      "ingredients": {
+        "Campari": "1 part",
+        "Dry Vermouth": "1 part",
+        "Sweet Vermouth": "2 parts",
+        "Soda Water": "top up"
+      },
+      "instructions": "Serve in a tall glass with ice and a lemon slice."
+    },
+    {
+      "name": "American Beauty",
+      "ingredients": {
+        "Crème de Menthe": "1 teaspoon",
+        "Orange Juice": "1/6",
+        "Grenadine": "1/6",
+        "French Vermouth": "1/3",
+        "Cognac": "1/3",
+        "Port Wine": "dash"
+      },
+      "instructions": "Fill a tumbler with ice, mix ingredients, top with Port, garnish with fruits and mint."
+    },
+    {
+      "name": "Angel's Kiss",
+      "ingredients": {
+        "Crème de Cacao": "2/3",
+        "Fresh Cream": "1/6"
+      },
+      "instructions": "Pour into liqueur glass."
+    },
+    {
+      "name": "Apple Jack Cocktail",
+      "ingredients": {
+        "Apple Jack": "2/3",
+        "Grenadine": "1/6",
+        "Lemon Juice": "1/6"
+      }
+    },
+    {
+      "name": "Arcadian Cocktail",
+      "ingredients": {
+        "Campari": "1/3",
+        "Italian Vermouth": "1/3",
+        "Rye Whisky": "1/3"
+      }
+    },
+    {
+      "name": "Artists' Special",
+      "ingredients": {
+        "Rye Whisky": "1/3",
+        "Sherry": "1/3",
+        "Lemon Juice": "1/6",
+        "Groseille Syrup": "1/6"
+      },
+      "instructions": "Shake well and strain into cocktail glass."
+    },
+    {
+      "name": "Astoria Cocktail",
+      "ingredients": {
+        "Orange Bitters": "1 dash",
+        "Gin": "2/3",
+        "French Vermouth": "1/3"
+      },
+      "instructions": "Serve with a stuffed olive."
+    },
+    {
+      "name": "Atta Boy Cocktail",
+      "ingredients": {
+        "French Vermouth": "1/3",
+        "Dry Gin": "2/3",
+        "Grenadine": "4 dashes"
+      },
+      "notes": "Recipe by Harry Craddock, Savoy Hotel, London."
+    }
+  ]
+

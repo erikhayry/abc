@@ -1,0 +1,312 @@
+[
+  {
+    "name": "Tango Cocktail",
+    "ingredients": [
+      "1/6 Curacao",
+      "1/6 Orange Juice",
+      "1/3 Vitali Vermouth",
+      "1/3 Gin"
+    ],
+    "instructions": "Shake well and strain into cocktail glass, and squeeze Orange Peel on top."
+  },
+  {
+    "name": "Tantalus Cocktail",
+    "ingredients": [
+      "1/3 Forbidden Fruit Liqueur",
+      "1/3 Brandy",
+      "1/3 Lemon Juice"
+    ]
+  },
+  {
+    "name": "Technocracy Cocktail",
+    "ingredients": [
+      "1/3 French Vermouth",
+      "1/3 Italian Vermouth",
+      "1/6 Scotch Whisky",
+      "1/6 Rye Whisky",
+      "2 dashes of Vodka"
+    ],
+    "note": "The above cocktail brought out for overcoming the worldwide depression, the five ingredients representing five nations, Vodka symbolizing the Five Year Plan."
+  },
+  {
+    "name": "Texas Fizz",
+    "ingredients": [
+      "1 teaspoonful of Sugar",
+      "Juice of 1/2 Orange",
+      "Juice of 1/2 Lemon",
+      "1 glass of Gin"
+    ],
+    "instructions": "Shake well and strain into medium-sized tumbler and add syphon."
+  },
+  {
+    "name": "Third Degree Cocktail",
+    "ingredients": [
+      "2/3 Gin",
+      "1/3 French Vermouth",
+      "4 dashes of Absinthe"
+    ],
+    "instructions": "Shake well and strain into old-fashioned whisky glass."
+  },
+  {
+    "name": "Three Mile Limit Cocktail",
+    "ingredients": [
+      "1 teaspoonful of Grenadine",
+      "1 dash of Lemon Juice",
+      "2/3 Brandy",
+      "1/3 Bacardi Rum"
+    ],
+    "instructions": "Shake well and strain into cocktail glass.",
+    "note": "This cocktail was invented at Harry's New York Bar, Paris, by 'Chips' Brighton. One of the effects of the Volstead Act, people get busy when outside of the three miles."
+  },
+  {
+    "name": "Thunder Cocktail",
+    "ingredients": [
+      "1 teaspoonful Gomme Syrup",
+      "1 yolk of Egg",
+      "1 glass of Brandy",
+      "1 sprinkle of Cayenne Pepper"
+    ],
+    "instructions": "Shake well and strain into cocktail glass."
+  },
+  {
+    "name": "Tipperary Cocktail",
+    "ingredients": [
+      "1/6 Orange Juice",
+      "1/6 Grenadine",
+      "1/3 French Vermouth",
+      "1/3 Gin",
+      "2 sprigs of Fresh Mint"
+    ],
+    "instructions": "Shake well and strain."
+  },
+  {
+    "name": "Tlevesoor Cocktail",
+    "ingredients": [
+      "1 dash of Peach Bitters",
+      "1 dash of Curaçao",
+      "1 dash of Holland's Gin",
+      "1/6 Orange Juice",
+      "1/6 Grapefruit Juice",
+      "1/3 Rye Whisky",
+      "1/3 Apple Jack"
+    ],
+    "note": "This cocktail was invented by Bob Card in honour of the Inauguration of President Roosevelt, 4th March, 1933."
+  },
+  {
+    "name": "Tom and Jerry (Hot)",
+    "ingredients": [
+      "Eggs",
+      "Sugar",
+      "1 glass of Brandy",
+      "1 glass of Jamaica Rum",
+      "Hot water or milk"
+    ],
+    "instructions": "Break and separate the eggs. Beat the whites to stiff froth, beat yolks until thin. Mix with sugar, add spirits, hot water or milk, stir well, and sprinkle nutmeg on top."
+  },
+  {
+    "name": "Tom and Jerry (Cold)",
+    "ingredients": [
+      "Eggs",
+      "Sugar",
+      "1 glass of Brandy",
+      "1 glass of Jamaica Rum",
+      "Cold water or milk"
+    ],
+    "note": "Prepared like the hot version but with cold water or milk."
+  },
+  {
+    "name": "Tom Collins",
+    "ingredients": [
+      "2 or 3 lumps of Ice",
+      "1 teaspoonful of Sugar",
+      "Juice of 1 Lemon",
+      "1 glass of Old Tom Gin"
+    ],
+    "instructions": "Fill balance with syphon, stir well, and serve."
+  },
+  [
+    {
+      "name": "Trilby Cocktail",
+      "ingredients": [
+        "2 dashes of Absinthe",
+        "2 dashes of Orange Bitters",
+        "1/3 Parfait d'Amour Liqueur",
+        "1/3 Rye Whisky",
+        "1/3 Italian Vermouth"
+      ],
+      "instructions": "Shake well and strain into cocktail glass, with Cherry."
+    },
+    {
+      "name": "Trinity Cocktail",
+      "ingredients": [
+        "1/3 French Vermouth",
+        "1/3 Bailor Italian Vermouth",
+        "1/3 Gin"
+      ]
+    },
+    {
+      "name": "Tropical Cocktail",
+      "ingredients": [
+        "1 dash of Angostura",
+        "1 dash of Orange Bitters",
+        "1/3 Crème de Cacao",
+        "1/3 Maraschino",
+        "1/3 French Vermouth"
+      ],
+      "instructions": "Stir well, strain into cocktail glass, with Cherry."
+    },
+    {
+      "name": "Tunnel Cocktail",
+      "ingredients": [
+        "1/3 Gin",
+        "1/3 Campari",
+        "1/6 Italian Vermouth",
+        "1/6 French Vermouth"
+      ],
+      "instructions": "Shake well, strain into cocktail glass, and squeeze Orange Peel on top.",
+      "note": "This cocktail was awarded Prix d'Honneur at the International Bar-tenders' Contest, Paris, 1929."
+    },
+    {
+      "name": "Turf Cocktail",
+      "ingredients": [
+        "2 dashes of Orange Bitters",
+        "2 dashes of Maraschino",
+        "2 dashes of Absinthe",
+        "1/2 French Vermouth",
+        "1/2 Plymouth Gin"
+      ],
+      "instructions": "Shake well and strain into cocktail glass with an Olive."
+    },
+    {
+      "name": "Tuxedo Cocktail",
+      "ingredients": [
+        "1 dash Maraschino",
+        "1 dash Absinthe",
+        "2 dashes Orange Bitters",
+        "1/2 Gin",
+        "1/2 French Vermouth"
+      ],
+      "instructions": "Stir well with a spoon, strain into cocktail glass, add Cherry, and squeeze Lemon Peel on top."
+    },
+    {
+      "name": "Twelve Mile Limit",
+      "ingredients": [
+        "2/3 Brandy",
+        "1/3 Bacardi Rum",
+        "1 teaspoonful of Lemon Juice"
+      ]
+    },
+    {
+      "name": "Various Continental Beverages",
+      "options": [
+        {
+          "name": "Anis del Oso and Grenadine",
+          "ingredients": [
+            "1 glass Anis del Oso",
+            "1/2 glass Grenadine",
+            "Soda Water"
+          ]
+        },
+        {
+          "name": "Byrrh-Cassis",
+          "ingredients": [
+            "1 glass Byrrh",
+            "1/2 glass Cassis",
+            "Soda Water"
+          ]
+        },
+        {
+          "name": "Chambery Fraise",
+          "ingredients": [
+            "1 glass Vermouth de Chambery",
+            "1/2 glass Fraisette",
+            "Soda Water"
+          ]
+        },
+        {
+          "name": "Champagne de Pauvre",
+          "ingredients": [
+            "1 glass of Brandy",
+            "1/2 glass Syrup Citron",
+            "Soda Water"
+          ]
+        },
+        {
+          "name": "Cinzano and Curaçao",
+          "ingredients": [
+            "1 glass Cinzano Vermouth",
+            "1/2 glass Curaçao",
+            "Soda Water"
+          ]
+        },
+        {
+          "name": "Dubonnet Citron",
+          "ingredients": [
+            "1 glass Dubonnet",
+            "1/2 glass Syrup Citron",
+            "Soda Water"
+          ]
+        },
+        {
+          "name": "Kirsch and Cassis",
+          "ingredients": [
+            "1 glass Cassis",
+            "1/2 glass Kirsch",
+            "Soda Water"
+          ]
+        },
+        {
+          "name": "Kirsch and Grenadine",
+          "ingredients": [
+            "1 glass Kirsch",
+            "1/2 glass Grenadine",
+            "Soda Water"
+          ]
+        },
+        {
+          "name": "Long Drink",
+          "ingredients": [
+            "1 glass Italian Vermouth",
+            "1 liqueur glass Gin",
+            "Soda Water"
+          ],
+          "instructions": "Serve with a small lump of Ice and Orange Peel on top."
+        },
+        {
+          "name": "Picon-Cointreau",
+          "ingredients": [
+            "1 glass Picon",
+            "1/2 glass Cointreau",
+            "Soda Water"
+          ]
+        },
+        {
+          "name": "Picon Grenadine",
+          "ingredients": [
+            "1 glass Amer. Picon",
+            "1/2 glass Grenadine",
+            "Syphon"
+          ]
+        },
+        {
+          "name": "Vermouth Cassis",
+          "ingredients": [
+            "1 glass Noilly Prat Vermouth",
+            "1/2 glass Cassis",
+            "Soda Water"
+          ]
+        },
+        {
+          "name": "Vermouth Cocktail",
+          "ingredients": [
+            "1 glass French Vermouth",
+            "1/2 glass Curaçao",
+            "Soda Water"
+          ]
+        }
+      ]
+    }
+  ]
+  ]
+
+
